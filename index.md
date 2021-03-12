@@ -12,3 +12,4 @@ Not only you provide some requirements to this platform. Volunteers can come up 
 
   * [Bootcamp - Python Dev](bootcamp-python-dev.md)
   * [Featurepreneurs Github Account](featurepreneurs-github.md)
+  * [Featurepreneur of the Week](fpr-of-the-week.md)
