@@ -1,4 +1,4 @@
-**Week 2  - Dec 27, 2020**
+### **Week 2  - Dec 27, 2020**
 
 
 | Title         | Winner        |
@@ -8,11 +8,12 @@
 
 
 <br>
-<br>
 
  -------
+<br>
 
-**Week 1  - Dec 20, 2020**
+
+### **Week 1  - Dec 20, 2020**
 
 
 | Title         | Winner        |
