@@ -16,5 +16,5 @@
 
 | Title         | Winner        |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Featurepreneur Of The Week  | Lil Boys Team  |
+| Girl Featurepreneur of the Week  | Divya  |
