@@ -8,7 +8,7 @@ If you come up with your ML/Analytics/Development requirements, our enthusiasts 
 
 Not only you provide some requirements to this platform. Volunteers can come up with their own requirements and come up with finished feature so you can use them in your product as an add-on.
 
-## Links :
+## Our Activities :
 
   * [Bootcamp - Python Dev](bootcamp-python-dev.md)
   * [Featurepreneurs Github Account](featurepreneurs-github.md)
