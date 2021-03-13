@@ -14,3 +14,4 @@ Not only you provide some requirements to this platform. Volunteers can come up 
   * [Featurepreneurs Github Account](featurepreneurs-github.md)
   * [Weekly Titles](weekly-titles.md)
   * [Featurepreneur Benefits](fpr-benefits.md)
+  * [Public Feature Requirement I](Public-Feature-Requirements.md)
