@@ -1,7 +1,7 @@
-#Brain Storming
+# Brain Storming
 
 
-###Brainstorming Session 7
+### Brainstorming Session 7
 **Mentor Topics**
 - Weekly 3-5hrs
 
@@ -33,7 +33,7 @@ Technical Brainstorming session for mentors on Odd/even days
 
 ___
 
-###Brainstroming Session - 6 
+### Brainstroming Session - 6 
 **Participants:** 
 - Gokul 
 
@@ -64,7 +64,7 @@ ___
 
 ___
 
-###Brain Storm session 5
+### Brain Storm session 5
 862 Tactcoins/participants 
 
 **Participants:** 
@@ -132,7 +132,7 @@ ___
 
 ___
 
-###Brain Storm session 4
+### Brain Storm session 4
 Participants: 
 
 - Gokul
@@ -167,7 +167,7 @@ Participants:
              
 ___
 
-###Mentor Brainstorming session: 3
+### Mentor Brainstorming session: 3
 **Jan 22, 2021 - Duration: 15 mins**
 Participants: 
 
@@ -261,12 +261,12 @@ Summary Need to discuss about Peer pressure
 
 ___
 
-###Mentor Brainstorming session: 2
+### Mentor Brainstorming session: 2
 ​
 
 Jan 19 2021
 
-####Student-mentor Brain storming session 2
+#### Student-mentor Brain storming session 2
 **This week workshop**
 - Easy Topic
 
