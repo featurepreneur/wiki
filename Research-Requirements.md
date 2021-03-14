@@ -7,7 +7,7 @@ Default Fund:
 
 ___
 
-###FR1101: Stack and Tact Index
+### FR1101: Stack and Tact Index
 predict the technologies like Python, Julia whether they will grow or shrink
 
 ​
@@ -25,29 +25,29 @@ Phase 3|Top 10 lib scaling|Jan 15, 2021|Pending
 
 ___
 
-###FR1102: ImageMagic Alternate
+### FR1102: ImageMagic Alternate
 ImageMagic library alternate to reduce the processing time
 
 200 - 800$CAD - Commission - Phase 2
 
 ___
 
-###FR1103: Synthetic20
+### FR1103: Synthetic20
 Based on 20% of the data, we can generate 80% data.
 
 ___
 
-###FR1104: Pose Generator
+### FR1104: Pose Generator
 Pose generator for models
 
 ___
 
-###FR1105: DevZam
+### FR1105: DevZam
 Shazam like algorithm to find the similarity between developers.
 
 ___
 
-###FR1106: Breathe Analyzer
+### FR1106: Breathe Analyzer
 We analyze your breather for good!
 
 ___
