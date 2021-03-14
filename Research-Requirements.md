@@ -1,5 +1,5 @@
-#Research Requirements
-######Tactiians do research always!!
+# Research Requirements
+###### Tactiians do research always!!
 Default Fund: 
 
 100$ - 500$ - Research - Phase 1
