@@ -17,3 +17,6 @@ Not only you provide some requirements to this platform. Volunteers can come up 
   * [Public Feature Requirement I](Public-Feature-Requirements.md)
   * [Article Request](Article-Request.md)
   * [AWS Lamda Requirements](AWS-Lamda_Requirements.md)
+  * [AWS Scholarship](AWS-Scholarship.md)
+  * [Brain Storming](Brain-Storming.md)
+  * [Eat Sleep Code Contest](Eat-Sleep-Code-Contest.md)
