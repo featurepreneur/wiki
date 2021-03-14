@@ -24,5 +24,5 @@ Not only you provide some requirements to this platform. Volunteers can come up 
   * [Gaming Requirements](Gaming-Requirements.md)
   * [IMLF](IMLF.md)
   * [Modularization](Modularization.md)
-  * [Job shadowing as a Certificate](Job-Shadowing-as-a-Certificate.md)
+ 
  
