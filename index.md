@@ -20,3 +20,7 @@ Not only you provide some requirements to this platform. Volunteers can come up 
   * [AWS Scholarship](AWS-Scholarship.md)
   * [Brain Storming](Brain-Storming.md)
   * [Eat Sleep Code Contest](Eat-Sleep-Code-Contest.md)
+  * [Equality Essay Contest](Equality-Essay-Contest.md)
+  * [Gaming Requirements](Gaming-Requirements.md)
+  * [IMLF](IMLF.md)
+  * [Job Shadowing as a Certificate (JSaaC)](Job-Shadowing-as-a-Certificate(JSaaC).md)
