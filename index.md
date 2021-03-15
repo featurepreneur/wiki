@@ -25,5 +25,12 @@ Not only you provide some requirements to this platform. Volunteers can come up 
   * [IMLF](IMLF.md)
   * [Modularization](Modularization.md)
   * [Research Requirements](Research-Requirements.md)
+  * [NGO Coding](NGO-Coding.md)
+  * [PM2 Requirements](PM2-Requirements.md)
+  * [SEAD](SEAD.md)
+  * [Smalltics](Smalltics.md)
+  * [Tact Lingo](Tact-Lingo.md)
+  * [Workshop Add-ons](Workshop-Add-ons.md)
+  * [You run the world, Girl!](You-run-the-world-girl.md)
  
  
