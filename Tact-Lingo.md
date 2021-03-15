@@ -1,6 +1,7 @@
 # Tact Lingo
 ###### Tactiians know this short forms~
 
+
 ### Tact Coins
 
 ___
