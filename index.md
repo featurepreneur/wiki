@@ -32,5 +32,8 @@ Not only you provide some requirements to this platform. Volunteers can come up 
   * [Tact Lingo](Tact-Lingo.md)
   * [Workshop Add-ons](Workshop-Add-ons.md)
   * [You run the world, Girl!](You-run-the-world-girl.md)
+  * [Bootcamp - ML Engineering 101](Bootcamp-ML_Engineering_101.md)
+  * [CrowdEngine](CrowdEngine.md)
+  * [Flask Requirements](Flask_Requirements.md)
  
  
