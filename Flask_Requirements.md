@@ -44,9 +44,7 @@
 20. Write one line file in a text file and upload them in Flask by using Jinja. Flask API has to return how many words in the text file.
 
 21. Have some city names in a text file (see below)
-<style>
-.red {color: red}
-</style>
+    
 
 ```
 1 Chennai
@@ -68,8 +66,8 @@ You need to upload the file via Jinja and then it should return the unique citie
 7    ]
 8 }
 ```
-22.  abd
+22.   abd
 
-23.  abc
+23.   abc
 
     
