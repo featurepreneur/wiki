@@ -66,8 +66,8 @@ You need to upload the file via Jinja and then it should return the unique citie
 7    ]
 8 }
 ```
-22.   abd
+22. abd
 
-23.   abc
+23. abc
 
     
