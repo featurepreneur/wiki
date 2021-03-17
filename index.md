@@ -40,6 +40,6 @@ Not only you provide some requirements to this platform. Volunteers can come up 
   * [Starbuck Fund](Starbuck_fund.md)
   * [Tact Effects](Tact_Effects.md)
   * [Various Audio Research and Work](Various_Audio_Research_and_Work.md)
-  * [Job Shadowing as a Certificate (JSaaC)](Job-Shadowing-as-a-Certificate(JSaaC).md)
+  * [Job Shadowing as a Certificate (JSaaC)](Jsaac.md)
  
  
