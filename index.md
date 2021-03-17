@@ -35,5 +35,10 @@ Not only you provide some requirements to this platform. Volunteers can come up 
   * [Bootcamp - ML Engineering 101](Bootcamp-ML_Engineering_101.md)
   * [CrowdEngine](CrowdEngine.md)
   * [Flask Requirements](Flask_Requirements.md)
+  * [Game: Pronounce Bee](Game_Pronounce_Bee.md)
+  * [Prime Numbers](Prime_Numbers.md)
+  * [Starbuck Fund](Starbuck_fund.md)
+  * [Tact Effects](Tact_Effects.md)
+  * [Various Audio Research and Work](Various_Audio_Research_and_Work.md)
  
  
