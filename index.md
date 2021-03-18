@@ -41,5 +41,10 @@ Not only you provide some requirements to this platform. Volunteers can come up 
   * [Tact Effects](Tact_Effects.md)
   * [Various Audio Research and Work](Various_Audio_Research_and_Work.md)
   * [Job Shadowing as a Certificate (JSaaC)](Jsaac.md)
+  * [Python Advanced with AWS](Python_Advanced_with_AWS.md)
+  * [Vlad and CSP Education Fund](Vlad_CSP_Education_Fund.md)
+  * [Junior Mentor](Junior-Mentor.md)
+  * [FPR Royalty](FPR-Royalty.md)
+  * [Featurepreneur YouTube](Featurepreneur_youtube.md)
  
  
