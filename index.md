@@ -46,5 +46,9 @@ Not only you provide some requirements to this platform. Volunteers can come up 
   * [Junior Mentor](Junior-Mentor.md)
   * [FPR Royalty](FPR-Royalty.md)
   * [Featurepreneur YouTube](Featurepreneur_youtube.md)
+  * [Efforts levels](Effort_levels.md)
+  * [Featurepreneur Benefits](Featurepreneur_Benefits.md)
+  * [Training Program](Training_Program.md)
+  * [SWIFT](SWIFT.md)
  
  
