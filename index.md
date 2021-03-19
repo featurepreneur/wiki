@@ -1,5 +1,4 @@
 # Featurepreneur Wiki
-
 Featurepreneur (FPR) is a micro-appreciation platform for developers where you can predict / create features for everyone in the world!
 
 Welcome to Featurepreneur - ML enthusiasts can solve any ML problems, finish small ML requirements, get some analytics done.
