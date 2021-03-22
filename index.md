@@ -10,6 +10,7 @@ Not only you provide some requirements to this platform. Volunteers can come up 
 ## Our Activities :
 
   * [FAQ - ML Enthusiasts](faq-ml.md)
+  * [Featurepreneur vs Entrepreneur](featurepreneur-vs-entrepreneur.md)
   * [Bootcamp - Python Dev](bootcamp-python-dev.md)
   * [Featurepreneurs Github Account](featurepreneurs-github.md)
   * [Weekly Titles](weekly-titles.md)
