@@ -450,6 +450,7 @@ Here, it’s important to remember that once in a while, the model needs to be c
 One of the primary differences between machine learning and deep learning is that feature engineering is done manually in machine learning. In the case of deep learning, the model consisting of neural networks will automatically determine which features to use (and which not to use). 
 
 **10. What Are the Differences Between Machine Learning and Deep Learning?**
+
 Machine Learning|Deep Learning
 -|-
 Enables machines to take decisions on their own, based on past data|Enables machines to take decisions with the help of artificial neural networks
@@ -511,12 +512,14 @@ For example, an e-commerce website can suggest other items for you to buy, based
 - **Unsupervised learning -** This model uses unlabeled input data and allows the algorithm to act on that information without guidance.
 
 **15. What is the Difference Between Inductive Machine Learning and Deductive Machine Learning?**
+
 Inductive Learning|Deductive Learning
 -|-
 It observes instances based on defined principles to draw a conclusion|It concludes experiences
 Example: Explaining to a child to keep away from the fire by showing a video where fire causes damage|Example: Allow the child to play with fire. If he or she gets burned, they will learn that it is dangerous and will refrain from making the same mistake again
 
 **16. Compare K-means and KNN Algorithms.**
+
 K-means|KNN
 -|-
 ​[K-Means](https://www.simplilearn.com/tutorials/machine-learning-tutorial/k-means-clustering-algorithm) is unsupervised|​[KNN](https://www.simplilearn.com/tutorials/machine-learning-tutorial/knn-in-python) is supervised in nature
@@ -2499,9 +2502,9 @@ Gaussian Naive Bayes: Because of the assumption of the normal distribution, Gaus
 
 **160.   What is the difference between the Naive Bayes Classifier and the Bayes classifier?**
 
-Naive Bayes assumes conditional independence, P(X|Y, Z)=P(X|Z)
+Naive Bayes assumes conditional independence, P(X | Y, Z)=P(X | Z)
 
-P(X|Y,Z)=P(X|Z)
+P(X | Y,Z)=P(X | Z)
 
 P(X|Y,Z)=P(X|Z), Whereas more general Bayes Nets (sometimes called Bayesian Belief Networks), will allow the user to specify which attributes are, in fact, conditionally independent.
 
@@ -2596,6 +2599,7 @@ The **information gain** is based on the decrease in **entropy** after a dataset
 **Collinearity** is a linear association **between** two predictors. **Multicollinearity** is a situation where two or more predictors are highly linearly related.
 
 **169.   What is Kernel SVM?**
+
 SVM algorithms have basically advantages in terms of complexity. First I would like to clear that both Logistic regression as well as SVM can form non linear decision surfaces and can be coupled with the kernel trick. If Logistic regression can be coupled with kernel then why use SVM?
 
 - SVM is found to have better performance practically in most cases.
