@@ -50,5 +50,7 @@ Not only you provide some requirements to this platform. Volunteers can come up 
   * [Featurepreneur Benefits](Featurepreneur_Benefits.md)
   * [Training Program](Training_Program.md)
   * [SWIFT](SWIFT.md)
+  * [ML Interview Questions](ML_Interview_Question.md)
+  * [Linux Evangelism](Linux-Evangelism.md)
  
  
