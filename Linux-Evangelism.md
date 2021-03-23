@@ -31,7 +31,7 @@ If you face any issues after installing Ubuntu or any other Linux distro, you wi
 
 These are things what our volunteers mentioned about Ubuntu:
 
-[My Journey with Ubuntu so far….
-Have you ever switched to a new OS all of a sudden?
-medium.com](https://medium.com/featurepreneur/my-journey-with-ubuntu-so-far-2f8b6fd067f9)
+[My Journey with Ubuntu so far….  <br>
+Have you ever switched to a new OS all of a sudden?  <br>
+medium.com  <br>](https://medium.com/featurepreneur/my-journey-with-ubuntu-so-far-2f8b6fd067f9)
  
