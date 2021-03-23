@@ -9,7 +9,7 @@ Also, volunteers can propose a feature for your product by assessing your existi
 
 However, employers can chip out some money if they like the feature they got from the ML Engineers. Also, employers can give recommendation letters to the volunteers after the proper delivery.
 
----
+#
 
 ## How can I use Feature Shop?
 
@@ -19,13 +19,13 @@ By default signup, you will have some Tact Coins (like credits in Google) given 
 
 If you like the feature, you can issue coins if you like it. Or you can give them a recommendation letter. We will give some recommendation letter templates for you to issue letters.
 
----
+#
 
 ## Is it only ML Requirements?
 
 Yes, your requirements should have at least 20% Machine Learning involved. 
 
----
+#
 
 ## How do I get the final product? 
 
@@ -33,7 +33,7 @@ You wil get the code from the volunteers once they are done. Also, the volunteer
 
 If it is only the API, you will have a proper documentation from the volunteers.
 
----
+#
 
 ## What is Tact Coin?
 
@@ -41,7 +41,7 @@ It is similar to Google credits (or game credits) where we can offer you during 
 
 If you like our process, you can start purchasing more Tact Coins from in the market place. You can email us at the moment to get more coins. Also, we will give away Tact coins during the festival seasons and special occasions.
 
----
+#
 
 ## Should I own my company to be eligible as an employer?
 
@@ -49,19 +49,19 @@ No! You can be an employee in a company or running a restaurant and looking for 
 
 We focus on the requirements not your deatils. Your details will not be shown to the volunteers and it will not published without your permission.
 
----
+#
 
 ## I am not an employer. Can I give requirements?
 
 Yes, you don't need be an employer to share the requirements and get the work done. As long as your requirements are based on Machine Learning, it should be okay.
 
----
+#
 
 ## Who are those volunteers?
 
 Whoever entering into Machine Learning and trying to update their profiles with some volunteering projects to impress their potential employers. Some of the volunteers might have some IT experience and they want to move into Datascience / Machine Learning area.
 
----
+#
 
 ## Note:
 

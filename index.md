@@ -13,6 +13,7 @@ Not only you provide some requirements to this platform. Volunteers can come up 
   * [Featurepreneur vs Entrepreneur](featurepreneur-vs-entrepreneur.md)
   * [How to publish a feature at Featurepreneur?](How-to-publish-a-feature-at-Featurepreneur.md)
   * [FAQ - Employers](faq-employers.md)
+  * [Featurepreneur Benefits](featurepreneur-benefits.md)
   * [Bootcamp - Python Dev](bootcamp-python-dev.md)
   * [Featurepreneurs Github Account](featurepreneurs-github.md)
   * [Weekly Titles](weekly-titles.md)
