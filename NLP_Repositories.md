@@ -27,6 +27,6 @@ Source:
 
 
 
-<a id="raw-url" href="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MH4efZ7qUYrDnvgT_BO%2F-MQwImr465ijDOGgqNjs%2F-MQwKMwy9ZUY49B3Uhtf%2FNLP%20Repo.pdf?alt=media&amp;token=1e8d4f9a-622e-40c7-b5c2-44df357f7ced"><i class="fas fa-download" aria-hidden="true"></i>NLP Repo collection</a>
-</i>
+<a id="raw-url" href="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MH4efZ7qUYrDnvgT_BO%2F-MQwImr465ijDOGgqNjs%2F-MQwKMwy9ZUY49B3Uhtf%2FNLP%20Repo.pdf?alt=media&amp;token=1e8d4f9a-622e-40c7-b5c2-44df357f7ced">NLP Repo collection</a>
+
 
