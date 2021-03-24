@@ -16,6 +16,7 @@ Not only you provide some requirements to this platform. Volunteers can come up 
   * [Featurepreneur Benefits](featurepreneur-benefits.md)
   * 
   * [Spin Time - Winners](spin-time-winners.md)
+  * [Featurepreneur Of The Week](featurepreneur-of-the-week.md)
   * [Featurepreneurs Github Account](featurepreneurs-github.md)
   * [Weekly Titles](weekly-titles.md)
   * [Featurepreneur Benefits](fpr-benefits.md)
