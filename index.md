@@ -31,6 +31,7 @@ Not only you provide some requirements to this platform. Volunteers can come up 
   * [Mentor](mentor.md)
   * [Junior Mentor](junior-mentor.md)
   * [FPR Royalty](fpr-royalty.md)
+  * [Public Feature Requirements](public-feature-requirements.md)
   * [Featurepreneurs Github Account](featurepreneurs-github.md)
   * [Weekly Titles](weekly-titles.md)
   * [Training Program](Training_Program.md)
