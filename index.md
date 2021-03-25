@@ -21,6 +21,7 @@ Not only you provide some requirements to this platform. Volunteers can come up 
   * [Learner Of The Week](learner-of-the-week.md)
   * [Mentor of the Week](mentor-of-the-week.md)
   * [Meme Developers](meme-developers.md)
+  * [Learning Challenge Tournament](learning-challenge-tournament.md)
   * [Featurepreneurs Github Account](featurepreneurs-github.md)
   * [Weekly Titles](weekly-titles.md)
   * [Featurepreneur Benefits](fpr-benefits.md)
