@@ -15,7 +15,7 @@ We have kept the properties with 70% of technical things and 30% kollywood thing
 <p>&nbsp;</p>
 You can check how to play Tact Say here:
 
-[![Tact Say](http://img.youtube.com/vi/V23ttuwzh-w/0.jpg)](https://www.youtube.com/watch?v=V23ttuwzh-w "Tact Say")
+[![Tact Say](https://img.youtube.com/vi/V23ttuwzh-w/hqdefault.jpg)](https://www.youtube.com/watch?v=V23ttuwzh-w "Tact Say")
 
 
 Tact Say - How to Play
