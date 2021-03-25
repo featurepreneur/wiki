@@ -366,72 +366,89 @@ Compare two countries in chart
 
 Collect ML Profiles with 2 line comment This would help us to find the valid ML Profiles, not fakers
 
->1.  Form:
->2.     Text Area
->3.		Keep Text area to dump all links. You will have to find the appropriate and insert into the table.
->4.	Comment
->		2 lines comment
->​
->Table:\
->	uniqueid\
->	li_link\
->	kaggle_link\
->	online_resume\
->	blog_link\
->	github_link\
->	extra_links
+    1      Form:
+    2          Text Area
+    3		       Keep Text area to dump all links. You will have to find the appropriate and insert into the table.
+    4          Comment
+    5              2 lines comment
+    ​6      Table:
+    7              uniqueid
+    8              li_link
+    9              kaggle_link
+    10             online_resume
+    11             blog_link
+    12             github_link
+    13             extra_links
 
-FS1046: Routine Report
+#
+
+## FS1046: Routine Report
+
 Routine Report
 
 Companies like Google, Microsoft keep their routine work (which doesn't need much researcha and innovation) to India and saves Billion Dollars. We need to find those thigns and create a report on it.
 
-FS1047: TubeLines
+#
+
+## FS1047: TubeLines
+
 TubeLines:
 
 Summarize the video in 2 lines Use only ML based videos and this feature should be used only for education purposes
+#
 
-FS1048: Cover Letter Monk
+## FS1048: Cover Letter Monk
 CoverLetterMonk
 
 Create Cover letter sentences for specific profile and Job requirements
+#
 
-FS1049: Kaggle Profile Collector
+## FS1049: Kaggle Profile Collector
+
 Kaggle Profile Collector:
 
 ​https://www.kaggle.com/rankings.json?group=notebooks&page=1&pageSize=20 https://www.kaggle.com/rankings.json?group=notebooks&page=2&pageSize=20​
 
-FS1050: Anomalies Finder
+#
+## FS1050: Anomalies Finder
 ​https://www.linkedin.com/posts/bramw_home-activity-6633742469941080065-kn_q​
 
 Find the Anomalies in the replies
+#
 
-FS1051: FlixLines
+## FS1051: FlixLines
 FlixLines:
 
 Learn from TV Show lines
 
 Highlight the lines with meaning
+#
 
-FS1052: MuteAny
+## FS1052: MuteAny
+
 MuteAny
 
 Mute a Sneeze during the meeting
+#
 
-FS1053: Ask Me Anything
+## FS1053: Ask Me Anything
+
 Ask me Anything App:
 
 Guest can login by email, given pass_key Audience can login by email
 
 Admin: 
 Converted this to task
+#
 
-FS1054: Copy Paste Plugin
+## FS1054: Copy Paste Plugin
 I need a Chrome plugin to copy paste the image I want in the browser
 
 Customize this plugin to store Current Web Page link, Cropped Image, Comment https://chrome.google.com/webstore/detail/screenshot-capture/giabbpobpebjfegnpcclkocepcgockkc?hl=en https://github.com/simov/screenshot-capture​
+#
 
-FS1055: Flix Learning
+## FS1055: Flix Learning
+
 FlixLearning: NetFlix Learning
 
 Highlight the sentence and add meaning
@@ -439,61 +456,76 @@ Show the added meaning with highlight
 
 This will be used for Netflix TV Shows and
 
-List Episode
-	 Episode content
-	 	Highlights
+    1    List Episode
+    2        Episode content
+    3        Highlights
 pushover eggnog paradoxically 
 https://transcripts.foreverdreaming.org/viewtopic.php?f=422&t=20585&sid=312c7656a13271aa8ce532191a5a4025​
 
 Smaple transcripts: 
 https://transcripts.foreverdreaming.org/viewforum.php?f=422 https://transcripts.foreverdreaming.org/viewtopic.php?f=422&t=20577&sid=312c7656a13271aa8ce532191a5a4025​
+#
 
-FS1056
+## FS1056
+
 TBW
+#
 
-FS1057: Nuevoo Noise Analyzer
+## FS1057: Nuevoo Noise Analyzer
+
 The Existing Nuevoo jobs are noisy with too much False Positives.
+#
 
-FS1058: LinkedIn Influencer
+## FS1058: LinkedIn Influencer
+
 Collect LinkedIn influencer content
 
 https://www.linkedin.com/in/swishgoswami/
-www.linkedin.com
+
 ​https://www.linkedin.com/in/sunilsharmats/​
 
 ​https://www.linkedin.com/in/thomas-wolf-a056857/​
+#
 
-FS1059: ML Interview Questions
+## FS1059: ML Interview Questions
 Collect DS-ML Interview Questions in various companies:
 
-CompanyName
-Position
-MinExperienceRequired
-Questions
-	Question1
-	Question
-FS1060: 
+    1    CompanyName
+    2    Position
+    3    MinExperienceRequired
+    4    Questions
+    5        Question1
+    6        Question
+#    
+## FS1060: 
+
 I need a form like
 
 ​https://www.loom.com/share/58be27d784e348169809c0be3ee1528b​
+#
 
-FS1061: D Reality
+## FS1061: D Reality
+
 The D Reality:
 
 Education
 
 thedreality.com is available
+#
 
-FS1062: President Liner
+## FS1062: President Liner
+
 PresidentLiners:
 
-US Presidents' One liners
-	Find the most negative emotion
-	Find the most positive emotion
+    1    US Presidents' One liners
+    2        Find the most negative emotion
+    3        Find the most positive emotion
 Inspiration: 
 https://www.youtube.com/watch?v=TImO_RquoW8​
+#
 
-FS1063: NRI Views
+## FS1063: NRI Views
+
 NRI Views:
 
 Talk with NRI and ask them why did they leave the country?
@@ -505,47 +537,64 @@ P1: 500 Entries
 P2: 1000 Entries
 
 P3: 1500 Entries
+#
 
-FS1064
+## FS1064
 TBW
 
-FS1065: Lumen Clone
+#
+
+## FS1065: Lumen Clone
+
 Lumen 
 https://www.lumen.me/shop​
+#
 
-FS1066: Opportunity Value Index
+## FS1066: Opportunity Value Index
+
 Opportunity Value Index
+#
 
-FS1067: Quick Plot
+## FS1067: Quick Plot
+
 Quick Plot
 
 I need to convert my simple image-text, image-table to quick plot
 
 TextImage to Plot ImageTable to Plot
+#
 
-FS1068: Handwritten Creativity
+## FS1068: Handwritten Creativity
+
 Handwritten Creativity:
 
 The app is all about your handwritten stuff without using any trendy tech.
+#
 
-FS1069: ML Cover Letters
+## FS1069: ML Cover Letters
+
 Collect ML Cover Letters
+#
 
-FS1070: Tact College Index
+## FS1070: Tact College Index
+
 TactCollgeIndex (TCI)
 
-Criteria:
-Github Projects
-Medium Blogs
-Public Projects (Other than Github)
-Research Work
-Patent
-Books Written
+    1    Criteria:
+    2    Github Projects
+    3    Medium Blogs
+    4    Public Projects (Other than Github)
+    5    Research Work
+    6    Patent
+    7    Books Written
+
 Collect Tier2-3 Colleges in TN
 
 ​http://www.annauniversitycounselling.com/info/top-engineering-colleges-tamilnadu/​
+#
 
-FS1071: MemeTag
+## FS1071: MemeTag
+
 MemeTag
 
 Auto tag the existing Memes
@@ -553,85 +602,115 @@ Auto tag the existing Memes
 sample tags: 
 Deep Learning 
 Tensorflow
+#
 
-FS1072: Video Summarizer
+## FS1072: Video Summarizer
+
 Summarize the long video to me
 
 Sample: https://www.youtube.com/watch?v=aB8zcAttP1E​
+#
 
-FS1073: Top 10 Words
+## FS1073: Top 10 Words
+
 I want to see top 10 new english words in the last decade by country
 
 USA 
 UK 
 Canada 
 India
+#
 
-FS1074: Ted Talks
+## FS1074: Ted Talks
+
 Collect 100 Youtube TED Talk videos with transcriptions
 
 Classify them by using ML and NLP
+#
 
-FS1075: Tech Articles
+## FS1075: Tech Articles
+
 Collect 20,000 Tech articles (primarily ML)
 
 Classify them by using ML and NLP
+#
 
-FS1076: Fuzzy+
-Fuzzy+ Library
+## FS1076: Fuzzy+
+
+Fuzzy + Library
 
 ​https://www.kaggle.com/alexisbcook/inconsistent-data-entry 
 
 Here "South Korea" and "SouthKorea" matches only 40% in Fuzzywuzzy. 
 
 I want you to create a new model on top of Fuzzywuzzy to increase score like 90%
+#
 
-FS1077: Dataset Analyzer
+## FS1077: Dataset Analyzer
+
 We have 100 datasets. One new comers uploads a dataset which is the same or 90% similar to one of our existing datasets. How do we identify them.
+#
 
-FS1078: Povery Analysis
+## FS1078: Povery Analysis
+
 I want to see the same analysis (map, table, chart) by states/provinces in India/Canada.
 
 ​https://data.oecd.org/inequality/poverty-gap.htm#indicator-chart​
+#
 
-FS1079: Violence Visual
+## FS1079: Violence Visual
+
 ​https://data.oecd.org/inequality/violence-against-women.htm#indicator-chart​
 
 I want a unique visual for the same data
 
-FS1080: Small Data Collector
+#
+## FS1080: Small Data Collector
+
 Small Data Collector App
 
 User should register and create a simple description about any informtion she wanted. Once the data collector requirement is set, she should have a unique link
+#
 
-FS1081: Pandas Unique Topics
+## FS1081: Pandas Unique Topics
+
 Pandas unique topics
 
 I have covered pandas unique topics. You will have to show me a plot with all topics in x, y coordinates
+#
 
-FS1082: Content Analyzer
+## FS1082: Content Analyzer
+
 Content Analyzer
 
 Walmart content pages having some issues while publishing. Our content analyzer will help you to identify the publishing mistakes. Our ML validator will show your more insights on the published data.
 
 Employer: Syndigo
+#
 
-FS1083: Quality Ads
+## FS1083: Quality Ads
+
 Craigslist ads - High quality ads finder with ML
 
 Phase 1: https://ad-high-or-low.herokuapp.com/​
+#
 
-FS1084: American Health Expenses
+## FS1084: American Health Expenses
+
 American Health Expenses
 
 Why American Healthcare Is The Worst In The Developed World https://www.youtube.com/watch?v=wO1IoKN0AkY​
+#
 
-FS1085: ML Meme Maker: 
+## FS1085: ML Meme Maker: 
+
 Create ML Memes Page
 
 mlmeme.com is available
+#
 
-FS1086: Smaltics
+## FS1086: Smaltics
+
 Small and Smart Analytics: (smaltics)
 
 You send us a simple data in CSV, SQLite We will do some ML magic We will send to JS library 2 Defined js pipes (barplot)
@@ -653,20 +732,26 @@ Other datasets:
 https://drive.google.com/drive/folders/1T4Zqtp0bdq0iKGkCw0b_Dd0EeJuhDwBC​
 
 Admin: Converted to Task
+#
 
-FS1087: Li Recommendation  Collection
+## FS1087: Li Recommendation  Collection
+
 Li Recommendation collection
 
 P1: 100 recommendations
 
 Admin: Converted this as a Task
+#
 
-FS1088: Simple Population
+## FS1088: Simple Population
+
 Simple population:
 
 ​https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CA-GB​
+#
 
-FS1089: RTG
+## FS1089: RTG
+
 App to collect answers from RTG book
 
 Risk-taking Gene Book quetions
@@ -678,34 +763,45 @@ The form should have: Name
 LinkedIn Link
 
 Questions and Answer Inputs
+#
 
-FS1090: Visual Imbalance
+## FS1090: Visual Imbalance
+
 In classification based data, I need to see visually like plots whether the dataset is imbalanced or not.
+#
 
-FS1091: Entre Data
+## FS1091: Entre Data
 I want to collect entrepreneur data manually with some variables and predict the new entreprenuer's value.
 
 variables: prior startup success
 
-FS1092: 
+#
+## FS1092: 
+
 The forgotten “wade-ins” that transformed the US
 
 ​https://www.youtube.com/watch?v=Wk0872XhnHk​
+#
 
-FS1093
+## FS1093
+
 Reddit bots are hunting down online racists, one post at a time
 
 ​https://www.wired.co.uk/article/reddit-bots-hate-speech​
+#
 
-FS1094: Certificate Collector
+## FS1094: Certificate Collector
 ​https://www.linkedin.com/in/raenish/​
 
 Collect Certificates
+#
 
-FS1095: Ohio Effect Analyzer
+## FS1095: Ohio Effect Analyzer
 Analyze Ohio Effect by keeping an app
+#
 
-FS1096: Interview Monk
+## FS1096: Interview Monk
+
 InterviewMonk
 
 IM Should help me asking the right ML interview questions
@@ -713,54 +809,61 @@ IM Should help me asking the right ML interview questions
 It should have 50 questions.
 
 Based on the questions I have asked, it would
+#
 
-FS1097: Support Mother Tongue
+## FS1097: Support Mother Tongue
+
 A social experiment:
 
 We will record your conversation You will get 5% discount for this If we find your conversation and words are unique comparing our existing words, you will get 10% of your total bill. Totally, you can get up to 15% discount.
+#
 
-FS1098: Privacy Collector
+## FS1098: Privacy Collector
+
 Collect privacy and terms and conditions
 
 Sample: 
 https://www.myperfectcoverletter.com/information/termsofuse.aspx​
+#
 
-FS1099: Go Fund Me Analyzer
+## FS1099: Go Fund Me Analyzer
+
 Analyze GoFundMe content and payment
+#
 
-FS1100: Backlify
+## FS1100: Backlify
+
 Background Check: backlify.com is available
 
-LI_Link
-Name
-Criminal Records
-Discrimination Records
-Nepotism Records
-Sexism Records
-Anti Semetic Records
-Scandal Records
-Bully Records
+    1   LI_Link
+    2    Name
+    3    Criminal Records
+    4    Discrimination Records
+    5    Nepotism Records
+    6    Sexism Records
+    7    Anti Semetic Records
+    8    Scandal Records
+    9    Bully Records
+
 Sheet: 
 backlify_data 
 https://docs.google.com/spreadsheets/d/1Io10nlFWS12eK3tv2FGI7UXWj9isDpWbhpf0Sb9qyNQ/​
 
-li_link	
-name	
-criminal_recods	
-discrimination_recods	
-nepotism_records	
-sexism_records	
-anti_semetic_records	
-scandal_records	
-bully_records
+    1    li_link	
+    2    name	
+    3    criminal_recods	
+    4   discrimination_recods	
+    5    nepotism_records	
+    6    sexism_records	
+    7    anti_semetic_records	
+    8    scandal_records	
+    9    bully_records
+
 Our smart search engine will automatically search and collect data about the given profile if not data collected before.
 
+<center><img src=Backify.png alt="alt text" width="400" height="300"></center>
 
-​
-​
-
-​
-
+#
 Admin:
 
 Tech components:
