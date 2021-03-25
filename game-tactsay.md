@@ -10,21 +10,20 @@ We have kept the properties with 70% of technical things and 30% kollywood thing
 
 <center><img src=tactsay.png alt="alt text" width="400" height="whatever">
 
-#### *Tact Say 1.4*
+##### Tact Say 1.4
 </center>
 <p>&nbsp;</p>
 You can check how to play Tact Say by clicking on the image below which would navigate you to our YouTube Channel:
 
 [![Tact Say- How to Play](https://img.youtube.com/vi/V23ttuwzh-w/hqdefault.jpg)](https://www.youtube.com/watch?v=V23ttuwzh-w "Tact Say")
-<center>Tact Say - How to Play</center>
-
-
+##### Tact Say - How to Play
+\
 Sample Game: (Thamizh version)
 
 You can check the Sample Game by clicking on the image below which would navigate you to our YouTube Channel:
 
 [![Tact Say - Game E02](https://img.youtube.com/vi/RoyKdbTidRY/hqdefault.jpg)](https://www.youtube.com/watch?v=RoyKdbTidRY "Tact Say - Game E02")
-<center>Tact Say - Game E02</center>
+##### Tact Say - Game E02
 ​
 
 
