@@ -22,6 +22,7 @@ Not only you provide some requirements to this platform. Volunteers can come up 
   * [Mentor of the Week](mentor-of-the-week.md)
   * [Meme Developers](meme-developers.md)
   * [Learning Challenge Tournament](learning-challenge-tournament.md)
+  * [Game: TactSay](game-tactsay.md)
   * [Featurepreneurs Github Account](featurepreneurs-github.md)
   * [Weekly Titles](weekly-titles.md)
   * [Featurepreneur Benefits](fpr-benefits.md)

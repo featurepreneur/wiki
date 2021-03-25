@@ -74,7 +74,7 @@ We pick the best team every week and give them a random Tact coins to appreciate
 #
 ## Sample Posts:
 
-<img src=charles.png alt="alt text" width="400" height="whatever">
+<center><img src=charles.png alt="alt text" width="400" height="whatever">
 
 #### *Learning Challenge Sample post by Charles*
 <p>&nbsp;</p>
@@ -87,6 +87,8 @@ We pick the best team every week and give them a random Tact coins to appreciate
 <img src=Godlin.png alt="alt text" width="400" height="whatever">
 
 #### *Godlin's Learning Challenge*
+</center>
+
 #
 ## Winners History:
 
