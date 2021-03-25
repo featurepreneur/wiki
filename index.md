@@ -20,6 +20,7 @@ Not only you provide some requirements to this platform. Volunteers can come up 
   * [Writer Of The Week](writer-of-the-week.md)
   * [Learner Of The Week](learner-of-the-week.md)
   * [Featurepreneurs Github Account](featurepreneurs-github.md)
+  * [Mentor of the Week](mentor-of-the-week.md)
   * [Weekly Titles](weekly-titles.md)
   * [Featurepreneur Benefits](fpr-benefits.md)
   * [Training Program](Training_Program.md)
