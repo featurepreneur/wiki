@@ -27,6 +27,7 @@ Not only you provide some requirements to this platform. Volunteers can come up 
   * [Crossword Solver of the Week](crossword-solver-of-the-week.md)
   * [Secret Admirers](secret-admirers.md)
   * [Game Coins](game-coins.md)
+  * [Training Program (ML & MaaMs)](training-program.md)
   * [Featurepreneurs Github Account](featurepreneurs-github.md)
   * [Weekly Titles](weekly-titles.md)
   * [Training Program](Training_Program.md)
