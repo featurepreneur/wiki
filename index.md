@@ -24,6 +24,7 @@ Not only you provide some requirements to this platform. Volunteers can come up 
   * [Learning Challenge Tournament](learning-challenge-tournament.md)
   * [Game: TactSay](game-tactsay.md)
   * [TactSay Winners](tactsay-winners.md)
+  * [Crossword Solver of the Week](crossword-solver-of-the-week.md)
   * [Featurepreneurs Github Account](featurepreneurs-github.md)
   * [Weekly Titles](weekly-titles.md)
   * [Featurepreneur Benefits](fpr-benefits.md)
