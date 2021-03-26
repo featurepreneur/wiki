@@ -407,7 +407,7 @@ Visionary Meter
 ## FS1233: Tech or Not
 You can check Teach or Not by clicking on the image below which would navigate you to our YouTube Channel:
 
-[![TactML Score](https://img.youtube.com/vi/2RSzkFw4LFs/hqdefault.jpg)](https://www.youtube.com/watch?v=2RSzkFw4LFs "TactML")
+[![TactML Score](https://img.youtube.com/vi/2RSzkFw4LFs/hqdefault.jpg)](https://www.youtube.com/watch?v=2RSzkFw4LFs "TactML")\
 Classify tech or non-tech video among 10,000 videos.
 #
 
