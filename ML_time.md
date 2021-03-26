@@ -986,11 +986,9 @@ ___
 [rakesh4real/realtime-forex-api  <br>
 Contribute to rakesh4real/realtime-forex-api development by creating an account on GitHub.  <br>
 github.com](https://github.com/rakesh4real/realtime-forex-api)
-
-___​
+​
 
 ​<https://github.com/rakesh4real/fastapi-template>
-
 <https://realtime-forex.herokuapp.com/​>
 
 ​
