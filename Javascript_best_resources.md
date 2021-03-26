@@ -1,7 +1,7 @@
 # Javascript Best Resources
 
 
-<iframe style="width:1000px; height:1000px;" allow="autoplay *; encrypted-media *" src="https://docs.google.com/viewer?embedded=true&amp;url=https%3A%2F%2Fautotelicum.github.io%2FSmooth-CoffeeScript%2Fliterate%2Fjs-intro.pdf" allowfullscreen="true" frameborder="0"></iframe>
+<iframe style="width:100%; height:1000px;" allow="autoplay *; encrypted-media *" src="https://docs.google.com/viewer?embedded=true&amp;url=https%3A%2F%2Fautotelicum.github.io%2FSmooth-CoffeeScript%2Fliterate%2Fjs-intro.pdf" allowfullscreen="true" frameborder="0"></iframe>
 
 
 <br>
@@ -11,7 +11,7 @@
 websitesetup.org](https://websitesetup.org/javascript-cheat-sheet/)
 
 
-<iframe style="width:100%; height:100%;" allow="autoplay *; encrypted-media *" src="https://docs.google.com/viewer?embedded=true&amp;url=https%3A%2F%2Fptgmedia.pearsoncmg.com%2Fimages%2F9780789758064%2Fsamplepages%2F9780789758064.pdf" allowfullscreen="true" frameborder="0"></iframe>
+<iframe style="width:100%; height:1000px;" allow="autoplay *; encrypted-media *" src="https://docs.google.com/viewer?embedded=true&amp;url=https%3A%2F%2Fptgmedia.pearsoncmg.com%2Fimages%2F9780789758064%2Fsamplepages%2F9780789758064.pdf" allowfullscreen="true" frameborder="0"></iframe>
 <figure>
 
 <br>
@@ -30,7 +30,7 @@ pepa.holla.cz](https://pepa.holla.cz/wp-content/uploads/2015/11/JavaScript-for-K
 
 ​
 
-<iframe style="width:100%; height:100%;" allow="autoplay *; encrypted-media *" src="https://docs.google.com/viewer?embedded=true&amp;url=https%3A%2F%2Fwww.evl.uic.edu%2Fluc%2Fbvis546%2FEssential_Javascript_--_A_Javascript_Tutorial.pdf" allowfullscreen="true" frameborder="0">
+<iframe style="width:100%; height:1000px;" allow="autoplay *; encrypted-media *" src="https://docs.google.com/viewer?embedded=true&amp;url=https%3A%2F%2Fwww.evl.uic.edu%2Fluc%2Fbvis546%2FEssential_Javascript_--_A_Javascript_Tutorial.pdf" allowfullscreen="true" frameborder="0">
 
 </iframe>
 ​
