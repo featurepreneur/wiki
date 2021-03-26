@@ -93,7 +93,6 @@ Not only you provide some requirements to this platform. Volunteers can come up 
   * [AWS Certification Training](AWS_Certification_Training.md)
   * [NGO Coding](NGO-Coding.md)
   * [Efforts levels](Effort_levels.md)
-  * [AWS Certifications](AWS_Requirements.md)
   * [Azure Certifications](Azure_Certifications.md)
   * [Job Shadowing as a Certificate (JSaaC)](Jsaac.md)
   * [Statistics Topics](Statistics_Topics.md)
