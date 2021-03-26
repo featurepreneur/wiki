@@ -74,12 +74,14 @@ Not only you provide some requirements to this platform. Volunteers can come up 
   * [Python 101](Python_101.md)
   * [Python Advanced with AWS](Python_Advanced_with_AWS.md)
   * [Featurepreneur YouTube](Featurepreneur_youtube.md)
-  <details>
+    <details>
     <summary markdown="span">AMA Sessions</summary>
   
-  - [S1: AMA with Jatin](AMA_with_Jatin.md)
-  - [S2: AMA with Muthu Revanth](AMA_with_Muthu_Revanth.md)
-  </details>
+    - [S1: AMA with Jatin](AMA_with_Jatin.md)
+  
+    - [S2: AMA with Muthu Revanth](AMA_with_Muthu_Revanth.md)
+  
+    </details>
 
   * [PyTorch Interview Questions](PyTorch_interview_questions.md)
   * [Brain Storming](Brain-Storming.md)
