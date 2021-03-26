@@ -8,6 +8,7 @@ omdena.com](https://omdena.com/projects/ai-earthquake/)
 ​<br>
 ___
 
+
 ### Happy Valentine's Day from MATLAB ❤️ Code ⬇️
 [MathWorks on LinkedIn: Happy Valentine's Day from MATLAB ❤️ Code ⬇️   [y,x,z] = ndgrid(linspace | 103 comments  <br>
 Happy Valentine's Day from MATLAB ❤️ Code ⬇️   [y,x,z] = ndgrid(linspace(-2,2,100),linspace(-2,2,100),linspace(-2,2,100));  f = (x.^2+9/4*y.^2+z.^2-1).... 103 comments on LinkedIn <br>
@@ -578,6 +579,7 @@ pydeck.gl](https://pydeck.gl/)
 ___
 
 
+
 [dheerajiiitv/T5-paraphrase-generation  <br>
 Contribute to dheerajiiitv/T5-paraphrase-generation development by creating an account on GitHub.  <br>
 github.com](https://github.com/dheerajiiitv/T5-paraphrase-generation)
@@ -701,6 +703,8 @@ eng.uber.com](https://eng.uber.com/generative-teaching-networks/)
 ___
 
 
+
+
 [Getting started in NLP/ML | Victor Zhong  <br>
 www.victorzhong.com](https://www.victorzhong.com/blog/getting-started-in-NLP-ML-research.html)
 ​
@@ -753,7 +757,10 @@ ___
 [Machine Learning Software Engineer  <br>
 www.borealisai.com](https://www.borealisai.com/en/careers/employment/machine-learning-software-engineer/)
 ​
+<br>
+
 ___
+
 
 
 ​[http://gvv.mpi-inf.mpg.de/projects/NHRR/](http://gvv.mpi-inf.mpg.de/projects/NHRR/) 
@@ -812,7 +819,10 @@ www-technologyreview-com.cdn.ampproject.org](https://www-technologyreview-com.cd
 Posted by Valentin Bazarevsky and Ivan Grishchenko, Research Engineers, Google Research    Pose estimation from video plays a critical role ...  <br>
 ai.googleblog.com](https://ai.googleblog.com/2020/08/on-device-real-time-body-pose-tracking.html)
 ​
+<br>
+
 ___
+
 
 
 [Slideio: a new python library for reading medical images.  <br>
