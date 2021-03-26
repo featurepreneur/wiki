@@ -1,7 +1,7 @@
 # Javascript Best Resources
 
 
-<iframe style="width:100%; height:100%;" allow="autoplay *; encrypted-media *" src="https://docs.google.com/viewer?embedded=true&amp;url=https%3A%2F%2Fautotelicum.github.io%2FSmooth-CoffeeScript%2Fliterate%2Fjs-intro.pdf" allowfullscreen="true" frameborder="0"></iframe>
+<iframe style="width:1000px; height:1000px;" allow="autoplay *; encrypted-media *" src="https://docs.google.com/viewer?embedded=true&amp;url=https%3A%2F%2Fautotelicum.github.io%2FSmooth-CoffeeScript%2Fliterate%2Fjs-intro.pdf" allowfullscreen="true" frameborder="0"></iframe>
 
 
 <br>
