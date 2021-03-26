@@ -26,11 +26,10 @@ www.freecodecamp.org](https://www.freecodecamp.org/news/the-complete-javascript-
 
 <center>Javascript for Kids</center>
 
+
 ​
 
-<iframe style="width:100%; height:1000px;" allow="autoplay *; encrypted-media *" src="https://docs.google.com/viewer?embedded=true&amp;url=https%3A%2F%2Fwww.evl.uic.edu%2Fluc%2Fbvis546%2FEssential_Javascript_--_A_Javascript_Tutorial.pdf" allowfullscreen="true" frameborder="0">
-
-</iframe>
+<iframe style="width:100%; height:1000px;" allow="autoplay *; encrypted-media *" src="https://docs.google.com/viewer?embedded=true&amp;url=https%3A%2F%2Fwww.evl.uic.edu%2Fluc%2Fbvis546%2FEssential_Javascript_--_A_Javascript_Tutorial.pdf" allowfullscreen="true" frameborder="0"></iframe>
 ​
 ​
 
