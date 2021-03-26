@@ -50,6 +50,7 @@ Not only you provide some requirements to this platform. Volunteers can come up 
   * [Badges](Badges.md)
   * [Linux Evangelism](Linux-Evangelism.md)
   * [Flask Requirements](Flask_Requirements.md)
+  * [AWS Requirements](AWS_Requirements.md)
   * [Javascript Best Resources](Javascript_best_resources.md)
   * [AWS Lamda Requirements](AWS-Lamda_Requirements.md)
   * [Starbuck Fund](Starbuck_fund.md)
