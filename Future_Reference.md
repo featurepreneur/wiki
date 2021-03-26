@@ -8,6 +8,7 @@
 - ML 101
 - Fun with Python
 - Bed with Numpy
+- AWS Certifications
 - Topic Researcher
 - Privacy
 - Terms and Conditions
