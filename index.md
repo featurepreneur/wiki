@@ -47,6 +47,7 @@ Not only you provide some requirements to this platform. Volunteers can come up 
   * [Vlad and CSP Education Fund](Vlad_CSP_Education_Fund.md)
   * [Gaming Requirements](Gaming-Requirements.md)
   * [IMLF](IMLF.md)
+  * [Badges](Badges.md)
   * [Linux Evangelism](Linux-Evangelism.md)
   * [Flask Requirements](Flask_Requirements.md)
   * [Javascript Best Resources](Javascript_best_resources.md)
