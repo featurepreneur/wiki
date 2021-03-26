@@ -2502,11 +2502,11 @@ Gaussian Naive Bayes: Because of the assumption of the normal distribution, Gaus
 
 **160.   What is the difference between the Naive Bayes Classifier and the Bayes classifier?**
 
-Naive Bayes assumes conditional independence, **P(X | Y, Z)=P(X | Z)**
+Naive Bayes assumes conditional independence, **P(X/|Y, Z)=P(X|Z)**
 
-**P(X | Y,Z)=P(X | Z)**
+###### P(X|Y,Z)=P(X|Z)
 
-**P(X|Y,Z)=P(X|Z)**, Whereas more general Bayes Nets (sometimes called Bayesian Belief Networks), will allow the user to specify which attributes are, in fact, conditionally independent.
+<div>P(X|Y,Z)=P(X|Z)</div>, Whereas more general Bayes Nets (sometimes called Bayesian Belief Networks), will allow the user to specify which attributes are, in fact, conditionally independent.
 
 For the Bayesian network as a classifier, the features are selected based on some scoring functions like Bayesian scoring function and minimal description length(the two are equivalent in theory to each other given that there is enough training data). The scoring functions mainly restrict the structure (connections and directions) and the parameters(likelihood) using the data. After the structure has been learned the class is only determined by the nodes in the Markov blanket(its parents, its children, and the parents of its children), and all variables given the Markov blanket are discarded.
 
