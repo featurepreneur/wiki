@@ -100,4 +100,6 @@ Not only you provide some requirements to this platform. Volunteers can come up 
   * [Statistics Topics](Statistics_Topics.md)
   * [MongoDB Certification](MongoDB_Certification.md)
   * [Tact Tech Component(TTC)](Tact_Tech_component.md)
+  * [Zero Slides Policy](Zero_slides_policy.md)
+  * [Random Challenge](Random_Challenge.md)
  
