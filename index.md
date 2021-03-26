@@ -54,6 +54,7 @@ Not only you provide some requirements to this platform. Volunteers can come up 
   * [Starbuck Fund](Starbuck_fund.md)
   * [PM2 Requirements](PM2-Requirements.md)
   * [Shadow Articles](Shadow_articles.md)
+  * [5$ Challenge](challenge.md)
   * [Game: Pronounce Bee](Game_Pronounce_Bee.md)
   * [University with Advanced Research options](University_of_advanced_research_options.md)
   * [Online Resumes/Profiles](Online_Resumes.md)
