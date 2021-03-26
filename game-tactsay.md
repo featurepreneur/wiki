@@ -22,7 +22,7 @@ Sample Game: (Thamizh version)
 
 You can check the Sample Game by clicking on the image below which would navigate you to our YouTube Channel:
 
-[![Tact Say - Game E02](https://img.youtube.com/vi/RoyKdbTidRY/hqdefault.jpg)](https://www.youtube.com/watch?v=RoyKdbTidRY "Tact Say - Game E02")
+![Tact Say - Game E02](https://img.youtube.com/vi/RoyKdbTidRY/hqdefault.jpg)](https://www.youtube.com/watch?v=RoyKdbTidRY "Tact Say - Game E02")
 ##### Tact Say - Game E02
 ​
 

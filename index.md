@@ -14,7 +14,7 @@ Not only you provide some requirements to this platform. Volunteers can come up 
   * [How to publish a feature at Featurepreneur?](How-to-publish-a-feature-at-Featurepreneur.md)
   * [FAQ - Employers](faq-employers.md)
   * [Featurepreneur Benefits](featurepreneur-benefits.md)
-  * 
+  * [Tact Coins](tact-coins.md)
   * [Spin Time - Winners](spin-time-winners.md)
   * [Featurepreneur Of The Week](featurepreneur-of-the-week.md)
   * [Writer Of The Week](writer-of-the-week.md)
@@ -36,6 +36,7 @@ Not only you provide some requirements to this platform. Volunteers can come up 
   * [Public Feature Requirements III](public-feature-requirements-III.md)
   * [Public Feature Requirements Jr](public-feature-requirements-jr.md)
   * [Newbie Feature Requiremets](newbie-feature-requiremets.md)
+  
   * [Featurepreneurs Github Account](featurepreneurs-github.md)
   * [Weekly Titles](weekly-titles.md)
   * [Training Program](Training_Program.md)
