@@ -415,7 +415,7 @@ Classify tech or non-tech video among 10,000 videos.
 AI Info maker
 
 You can check AI Info Maker by clicking on the image below which would navigate you to our YouTube Channel:\
-[![AI Info Maker](https://img.youtube.com/vi/_UUcGedcqSY/hqdefault.jpg)](https://www.youtube.com/watch?v=_UUcGedcqSY "AI Info Maker")]
+[![AI Info Maker](https://img.youtube.com/vi/_UUcGedcqSY/hqdefault.jpg)](https://www.youtube.com/watch?v=_UUcGedcqSY "AI Info Maker")]\
 
 When we play this video, it shoud show 
 
@@ -427,7 +427,7 @@ Everything must be based on the video content and we should not search things on
 #
 
 ## FS1235: Video2Text
-[![Video2Text](https://img.youtube.com/vi/uawLjkSI7Mo/hqdefault.jpg)](https://www.youtube.com/watch?v=uawLjkSI7Mo "Video2Text")]
+[![Video2Text](https://img.youtube.com/vi/uawLjkSI7Mo/hqdefault.jpg)](https://www.youtube.com/watch?v=uawLjkSI7Mo "Video2Text")
 
 You need to convert this video to text with Amazon, Google, MS AI tools and do a benchmarking which one is more accurate.
 
