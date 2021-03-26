@@ -36,7 +36,7 @@ Not only you provide some requirements to this platform. Volunteers can come up 
   * [Public Feature Requirements III](public-feature-requirements-III.md)
   * [Public Feature Requirements Jr](public-feature-requirements-jr.md)
   * [Newbie Feature Requiremets](newbie-feature-requiremets.md)
-  
+  * [Research Requirements](research-requirements.md)
   * [Featurepreneurs Github Account](featurepreneurs-github.md)
   * [Weekly Titles](weekly-titles.md)
   * [Training Program](Training_Program.md)
