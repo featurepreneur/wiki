@@ -27,21 +27,27 @@ ___
 Sixth DIY from #vismydata  DIY- Multi-Level Dendrogram  Multi-Level Dendrogram is used to analyze the data containing parent-child relations between two...  <br>
 www.linkedin.com](https://www.linkedin.com/posts/siddharth-pawar_vismydata-tableau-tableaudesktop-activity-6766344350101245952-kg0a/)
 ​
+
 ___
+
 
 ### How to use ML to perform RF modulation recognition?
 [James Heaton on LinkedIn: Xilinx/Vitis-Tutorials  <br>
 Want to learn how to use ML to perform RF modulation recognition? Check out our new Vitis-AI tutorial that Jon Beckwith and I created....  <br>
 www.linkedin.com](https://www.linkedin.com/posts/james-heaton-66035310_xilinxvitis-tutorials-activity-6766037565733789696-XCft/)
 ​
+
 ___
+
 
 ### Tools for building robust, state-of-the-art machine learning models
 [Tools for building robust, state-of-the-art machine learning models  <br>
 The Data Exchange Podcast: Michael Mahoney on meta-analysis and adversarial training, and predicting trends in machine learning.  <br>
 thedataexchange.media](https://thedataexchange.media/tools-for-building-robust-state-of-the-art-machine-learning-models/amp/)
 ​
+
 ___
+
 
 ### English Audio Speech-to-Text Transcript with Hugging Face | Python NLP
 ​[https://www.linkedin.com/posts/amrrs_english-audio-speech-to-text-transcript-with-activity-6766025732201287680-1DSy/](https://www.linkedin.com/posts/amrrs_english-audio-speech-to-text-transcript-with-activity-6766025732201287680-1DSy/)​
@@ -54,7 +60,10 @@ ___
 [Neural Re-rendering for Full-frame Video Stabilization  <br>
 alex04072000.github.io](https://alex04072000.github.io/NeRViS/)
 ​
+
 ___
+
+
 
 ### AI-ML Cheat Sheets
 
@@ -70,7 +79,9 @@ ___
 Ahead of election and Prop 22 ballot, DoorDash leads with 48%, surpassing Uber Eats + Postmates (35%) and GrubHub (15%)  <br>
 medium.com](https://medium.com/edison-discovers/q4-2020-food-delivery-rideshare-sales-report-70382329c1b1)
 ​
+
 ___
+
 
 ### AI PAPER SUMMARY
 [AI Paper Summary Category | MarkTechPost  <br>
@@ -90,14 +101,18 @@ ___
 500 million+ members | Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.  <br>
 www.linkedin.com](https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Ffeed%2Fupdate%2Furn%3Ali%3Aactivity%3A6765214718861938688)
 
+
 ___
+
 
 ### Yann LeCun’s Deep Learning Course
 [Arpit Singh on LinkedIn: #DataScience #ML #machinelearning | 20 comments  <br>
 Yann LeCun’s Deep Learning Course — Deep Learning DS-GA 1008 — has been made *Free and Now Fully Available Online!!  The course is led by Yann LeCun himself... 20 comments on LinkedIn  <br>
 www.linkedin.com](https://www.linkedin.com/posts/imarpit_datascience-ml-machinelearning-activity-6765103006779260928-Z4t-)
+
 ​
 ___
+
 
 ### Analyzing seasonality with Fourier transforms using Python & SciPy
 [Theophano Mitsa Ph.D. on LinkedIn: Analyzing seasonality with Fourier transforms using Python & SciPy  <br>
@@ -140,7 +155,9 @@ ___
 A proven process for deploying applications in the cloud with Shiny and AWS  <br>
 business-science.github.io](https://business-science.github.io/shiny-production-with-aws-book/?utm_content=buffere8902&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 ​
+
 ___
+
 
 ### 10 Most Stable Linux Distros In 2021
 
@@ -148,7 +165,9 @@ ___
 Here are the ten most stable Linux Distros to try in 2021.  <br>
 analyticsindiamag.com](https://analyticsindiamag.com/10-most-stable-linux-distros-in-2021/)
 ​
+
 ___
+
 
 ### Python’s Pandas vs. R’s dplyr
 [Python’s Pandas vs. R’s dplyr – Which Is The Best Data Analysis Library | R-bloggers  <br>
@@ -157,6 +176,7 @@ www.linkedin.com](https://www.r-bloggers.com/2021/02/pythons-pandas-vs-rs-dplyr-
 ​
 ___
 
+
 ### Top Ten Kaggle Notebooks For Data Science Enthusiasts In 2021
 [Top Ten Kaggle Notebooks For Data Science Enthusiasts In 2021  <br>
 Here are top ten Kaggle Notebooks a data science enthusiast must know.  <br>
@@ -164,12 +184,15 @@ analyticsindiamag.com](https://www.r-bloggers.com/2021/02/pythons-pandas-vs-rs-d
 ​
 ___
 
+
 ### An R package to build your resume or CV
 [Ludovic BOCKEN, PhDs (c) on LinkedIn: jaredlander/resumer  <br>
 An R package to build your resume or CV. Nice Jared Lander. So when you get to the interview you can say, "My resume? I built it in R."  https://lnkd.in...  <br>
 www.linkedin.com](https://www.linkedin.com/posts/ludovicbocken_jaredlanderresumer-activity-6763816345650925569-3yGw)
 ​
+
 ___
+
 
 ### Applied Data Science: Free E-Book
 [Machine Learning India on LinkedIn: Applied Data Science: Free E-Book | 14 comments  <br>
@@ -232,24 +255,33 @@ ___
 Deploy a ML inference service on a budget in less than 10 lines of code. - ebhy/budgetml  <br>
 github.com](https://github.com/ebhy/budgetml)
 
+___
+
 
 [Hamza Tahir on LinkedIn: ebhy/budgetml  <br>
 After switching our company strategy to open-source with ZenML (https://lnkd.in/dwRDa-M), I've personally grown to appreciate and love the open-source...  <br>
 www.linkedin.com](https://www.linkedin.com/posts/hamzatahirofficial_ebhybudgetml-activity-6761958351417954304-gAdo)
+
 ​
 ![](ML_time_images/MachineLearningAlgorithms.png)
 
 ​
+___
+
 
 [A Comprehensive guide to Fine-tuning Deep Learning Models in Keras (Part II) | Felix Yu  <br>
 This is Part II of a 2 part series that cover fine-tuning deep learning models in Keras. Part I states the motivation and rationale behind fine-tuning and gi...  <br>
 flyyufelix.github.io](https://flyyufelix.github.io/2016/10/08/fine-tuning-in-keras-part2.html)
 ​
+___
+
 
 [Canada’s AI Corridor is Maturing: The Canadian AI Ecosystem in 2018 - jfgagne  <br>
 (Click to enlarge) Welcome to the now “annual” Canadian AI Ecosystem Map. What a year it’s been. Read the full report The report also goes to feed the excellent (and searchable!) directory at Canada.ai.  <br>
 jfgagne.ai](https://jfgagne.ai/blog/the-canadian-ai-ecosystem-in-2018/)
 ​
+___
+
 
 [Canadian AI Ecosystem 2018 - jfgagne  <br>
 With last year’s Canadian AI Ecosystem report, we aimed to test our hypothesis that the Canadian AI Ecosystem is larger than it is often represented. Since then, we have already seen a 28% increase in the number of active AI-related startups in Canada.  <br>
@@ -263,28 +295,36 @@ jfgagne.ai](https://jfgagne.ai/canadian-ai-ecosystem-2018-en/)
 [https://towardsdatascience.com/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679  <br>
 towardsdatascience.com](https://medium.com/@calebkaiser/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679)
 ​
+___
+
 
 [Steve Nouri on LinkedIn: #artificialintelligence #datascience #deeplearning | 40 comments  <br>
 Deploy a Machine Learning Model ( ML in Production)  Flask is currently the de facto choice for writing these APIs for a couple of reasons:  Flask is minimal... 40 comments on LinkedIn  <br>
 www.linkedin.com](https://www.linkedin.com/posts/stevenouri_artificialintelligence-datascience-deeplearning-activity-6678195852944781312-eLkq/)
 ​
+___
+
 
 [A Flask API for serving scikit-learn models  <br>
 Scikit-learn is an intuitive and powerful Python machine learning library that makes training and validating many models fairly easy…  <br>
 towardsdatascience.com](https://towardsdatascience.com/a-flask-api-for-serving-scikit-learn-models-c8bcdaa41daa)
 ​
+___
+
 
 [Philip Vollet on LinkedIn: #nlp #neuralnetworks #knowledgegraphs <br>
 Modeling Global and Local Node Contexts for Text Generation from Knowledge Graphs • Recent graph-to-text models generate text from graph-based data using...  <br>
 www.linkedin.com](https://www.linkedin.com/posts/activity-6681140779710214144-vUa8/)
 ​
-
+___
 
 
 [Modeling Global and Local Node Contexts for Text Generation from...  <br>
 Recent graph-to-text models generate text from graph-based data using either global or local aggregation to learn node representations. Global node encoding allows explicit communication between...  <br>
 arxiv.org](https://arxiv.org/abs/2001.11003)
 ​
+___
+
 
 [UKPLab/kg2text  <br>
 Modeling Global and Local Node Contexts for Text Generation from Knowledge Graphs (authors' implementation for the TACL20 paper) - UKPLab/kg2text  <br>
@@ -301,23 +341,29 @@ github.com](https://github.com/UKPLab/kg2text)
 Spektral is a Python library for graph deep learning, based on the Keras API and TensorFlow 2. Spektral is a simple but flexible framework for creating... 15 comments on LinkedIn  <br>
 www.linkedin.com](https://www.linkedin.com/posts/activity-6681074002246590465-glkg/)
 
-
+___
 ​
 
 [Ontario schools will now teach first graders financial literacy and coding to better prepare students for jobs of the future  <br>
 Coding and financial literacy will now be required learning for elementary school students in Ontario.  <br>
 amp-cnn-com.cdn.ampproject.org](https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/06/23/americas/ontario-math-curiculum-trnd/index.html)
 ​
+___
+
 
 [Morphological Processing for தமிழ் — The Unsupervised Way  <br>
 This is part of a series of articles on NLP for Tamil. Please find the first one here.  <br>
 medium.com](https://medium.com/analytics-vidhya/morphological-processing-for-%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D-the-unsupervised-way-68afebc388c4)
 ​
+___
+
 
 [PyTorch  <br>
 An open source deep learning platform that provides a seamless path from research prototyping to production deployment.  <br>
 pytorch.org](https://pytorch.org/get-started/locally/)
 ​
+<br>
+
 [![IMAGE_ALT](https://img.youtube.com/vi/hTmXpvws52M/0.jpg)](https://youtu.be/hTmXpvws52M)
 
 ​
@@ -326,16 +372,22 @@ pytorch.org](https://pytorch.org/get-started/locally/)
 Contribute to ChoudharyChanchal/game_control development by creating an account on GitHub.  <br>
 github.com](https://github.com/ChoudharyChanchal/game_control)
 ​
+___
+
 
 [R-CNN object detection with Keras, TensorFlow, and Deep Learning - PyImageSearch  <br>
 In this tutorial, you will learn how to build an R-CNN object detector using Keras, TensorFlow, and Deep Learning.  <br>
 www.pyimagesearch.com](https://www.pyimagesearch.com/2020/07/13/r-cnn-object-detection-with-keras-tensorflow-and-deep-learning/)
 ​
+___
+
 
 [Main Types of Neural Networks and its Applications — Tutorial  <br>
 A tutorial on the main types of neural networks and its applications to real-world challenges.  <br>
 medium.com](https://pub.towardsai.net/main-types-of-neural-networks-and-its-applications-tutorial-734480d7ec8e)
 ​
+___
+
 
 [You Don’t Understand Neural Networks Until You Understand the Universal Approximation Theorem  <br>
 The Proof Behind the Neural Network’s Power  <br>
@@ -458,43 +510,56 @@ www.linkedin.com](https://www.linkedin.com/pulse/canada-still-lead-ai-victor-anj
 [Certificate Program in Quantum Engineering and Technology  <br>
 Learn the basics of quantum information science in an accelerated format.  <br>
 professional.uchicago.edu](https://professional.uchicago.edu/find-your-fit/professional-education/certificate-programs-quantum-engineering-and-technology)
+
+___
 ​
 
 [Royal Bank of Canada, Borealis AI partner with Red Hat, NVIDIA on new AI computing platform | BetaKit  <br>
 RBC has developed its own cloud-based artificial intelligence computing platform upon which to create and maintain AI-powered banking applications.  <br>
 betakit.com](https://betakit.com/royal-bank-of-canada-borealis-ai-partner-with-red-hat-nvidia-on-new-ai-computing-platform/)
 ​
+___
+
 
 [adityamhatre/GameCarControl-CV  <br>
 Contribute to adityamhatre/GameCarControl-CV development by creating an account on GitHub.  <br>
 github.com](https://github.com/adityamhatre/GameCarControl-CV)
 ​
+___
+
 
 [Car controller for games using OpenCV  <br>
 This is an OpenCV project that uses computer vision to detect contours and filters out the blue color on the steering wheel  <br>
 medium.com](https://medium.com/@aditya.r.mhatre/car-controller-for-games-using-opencv-1ba821d5fe4b)
 ​
-
+___
 ​
 
 [Gallery — pydeck 0.6.1 documentation  <br>
 pydeck.gl](https://pydeck.gl/)
 ​
+___
 
 [dheerajiiitv/T5-paraphrase-generation  <br>
 Contribute to dheerajiiitv/T5-paraphrase-generation development by creating an account on GitHub.  <br>
 github.com](https://github.com/dheerajiiitv/T5-paraphrase-generation)
 ​
+___
+
 
 [10 COOL GPT-3 DEMOS  <br>
 Since OpenAI kicked off the GPT-3 API access for selected users, many demos have been created, some of which showcased the impressive capabilities of the massive-scale language model. Here are 10 cool demos based on GPT-3 that appeared on Twitter.  <br>
 machinelearningtokyo.com](https://machinelearningtokyo.com/2020/07/26/10-cool-gpt-3-demos/)
+
+___
 ​
 
 Data Science Topics: CRISP – DM - Project Management Methodology Exploratory Data Analytics (EDA) / Descriptive Analytics Statistical Data Business Intelligence and Data Visualization Plots & Inferential Statistics Probability Distributions (Continuous & Discrete) Hypothesis Testing - The ‘4’ Must Know Hypothesis Tests Data Mining Supervised Learning – Linear Regression, OLS Predictive Modelling – Multiple Linear Regression Lasso and Ridge Regressions Logistic Regression – Binary Value Prediction, MLE Multinomial Regression Advanced Regression for Count Data Data Mining Unsupervised Learning - Clustering Data Mining Unsupervised Learning - Dimension Reduction (PCA) Data Mining Unsupervised Learning - Association Rules Recommendation Engine Network Analytics Machine Learning - k - NN Classifier Decision Tree & Random Forest Ensemble Techniques - Bagging and Boosting AdaBoost & Extreme Gradient Boosting Text Mining & Natural Language Processing (NLP) Machine Learning Classifier Technique - Naive Bayes Introduction to Perceptron, Multilayer Perceptron Building Blocks of Neural Network Deep Learning Black Box Technique - Neural Network Deep Learning Black Box Technique - SVM Survival Analytics Forecasting/Time Series – Model Driven Algorithms Forecasting/Time Series – Data Driven Algorithms
 
 [BLURB Leaderboard  <br>
 microsoft.github.io](https://microsoft.github.io/BLURB/index.html)
+
+___
 ​
 
 [Domain-Specific Language Model Pretraining for Biomedical Natural...  <br>
@@ -502,85 +567,109 @@ Pretraining large neural language models, such as BERT, has led to impressive ga
 arxiv.org](https://arxiv.org/abs/2007.15779)
 ​
 
-​
-
-​
+___
 
 [Step-by-step guide to contributing on GitHub  <br>
 Learn the exact process I use when contributing to an open source project on GitHub. Follow this detailed visual guide to make your first contribution TODAY!  <br>
 www.dataschool.io](https://www.dataschool.io/how-to-contribute-on-github/)
 ​
+___
+
 
 [tiangolo/full-stack-fastapi-postgresql  <br>
 Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more. - tiangolo/full-stack-fastapi-postgresql  <br>
 github.com](https://github.com/tiangolo/full-stack-fastapi-postgresql)
 ​
+___
+
 
 [Launch Your Career in Data Science  <br>
 elitedatascience.com](https://elitedatascience.com/)
 ​
+___
+
 
 [Writer Identification Using Microblogging Texts for Social Media Forensics  <br>
 Establishing authorship of online texts is fundamental to combat cybercrimes. Unfortunately, text length is limited on some platforms, making the challenge harder. We aim at identifying the...  <br>
 arxiv.org](https://arxiv.org/abs/2008.01533)
 ​
 
-<iframe style="width:100%; height:100%;" allow="autoplay *; encrypted-media *" src="https://docs.google.com/viewer?embedded=true&amp;url=https%3A%2F%2Farxiv.org%2Fpdf%2F2003.09040.pdf" allowfullscreen="true" frameborder="0"></iframe>
+<iframe style="width:100%; height:1000px;" allow="autoplay *; encrypted-media *" src="https://docs.google.com/viewer?embedded=true&amp;url=https%3A%2F%2Farxiv.org%2Fpdf%2F2003.09040.pdf" allowfullscreen="true" frameborder="0"></iframe>
 
 ​
 
 [TinyML is giving hardware new life  <br>
 Today and going forward, billions of tiny devices will act as an extension of our brains, feelings and emotions as a natural extension of everyday life.  <br>
 techcrunch.com](https://techcrunch.com/2020/05/29/tinyml-is-giving-hardware-new-life/?guccounter=1)
+
+___
 ​
 
 [goru001/inltk  <br>
 Natural Language Toolkit for Indic Languages aims to provide out of the box support for various NLP tasks that an application developer might need - goru001/inltk  <br>
 github.com](https://github.com/goru001/inltk)
- 
+
+___
+
 
 [Natural Language Toolkit for Indic Languages — iNLTK latest documentation  <br>
 inltk.readthedocs.io](https://inltk.readthedocs.io/en/latest/)
 ​
+___
+
 
 [naiveHobo/InvoiceNet  <br>
 Deep neural network to extract intelligent information from invoice documents. - naiveHobo/InvoiceNet  <br>
 github.com](https://github.com/naiveHobo/InvoiceNet)
 ​
+___
+
 
 [Group Normalization  <br>
 Introduction Drawback of Batch Normalization Introduction to Group Normalization Other Normalization Techniques Group Normalization in detail and comparison to other  <br>
 amaarora.github.io](https://amaarora.github.io/2020/08/09/groupnorm.html#group-normalization-explained)
 ​
+___
+
 
 [Aman Arora on LinkedIn: Group Normalization  <br>
 It's Monday and as promised, I am back with another blog post - this time on "Group Normalization".   While BatchNorm is used in most SOTA algorithms, ...  <br>
 www.linkedin.com](https://www.linkedin.com/posts/aroraaman_group-normalization-activity-6698343876433985536-Jadk/)
 ​
+___
+
 
 [Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data  <br>
 Developed by Uber AI Labs, Generative Teaching Networks (GTNs) automatically generate training data, learning environments, and curricula to help AI agents rapidly learn.  <br>
 eng.uber.com](https://eng.uber.com/generative-teaching-networks/)
 ​
+___
+
 
 [Getting started in NLP/ML | Victor Zhong  <br>
 www.victorzhong.com](https://www.victorzhong.com/blog/getting-started-in-NLP-ML-research.html)
 ​
+___
+
 
 [TDAmeritrade/stumpy  <br>
 STUMPY is a powerful and scalable Python library for computing a Matrix Profile, which can be used for a variety of time series data mining tasks - TDAmeritrade/stumpy  <br>
 github.com](https://github.com/TDAmeritrade/stumpy)
 ​
+___
+
 
 [STUMPY documentation — stumpy 1.8.0 documentation  <br>
 stumpy.readthedocs.io](https://stumpy.readthedocs.io/en/latest/)
 ​
+___
+
 
 [STUMPY  <br>
 A Powerful and Scalable Python Library for Modern Time Series Analysis  <br>
 seanmylaw.medium.com](https://seanmylaw.medium.com/stumpy-fdb9f8f1f261)
 ​
-
+___
 ​
 
 [PettingZoo-Team/PettingZoo  <br>
@@ -594,11 +683,15 @@ github.com](https://github.com/PettingZoo-Team/PettingZoo)
 [jim-schwoebel/allie  <br>
 🤖 A machine learning framework for audio, text, image, video, or .CSV files (50+ featurizers and 15+ model trainers). - jim-schwoebel/allie  <br>
 github.com](https://github.com/jim-schwoebel/allie)
+
+___
 ​
 
 [Machine Learning Software Engineer  <br>
 www.borealisai.com](https://www.borealisai.com/en/careers/employment/machine-learning-software-engineer/)
 ​
+___
+
 
 ​[http://gvv.mpi-inf.mpg.de/projects/NHRR/](http://gvv.mpi-inf.mpg.de/projects/NHRR/) 
 [http://gvv.mpi-inf.mpg.de/projects/NHRR/data/1415.pdf​](http://gvv.mpi-inf.mpg.de/projects/NHRR/data/1415.pdf​)
@@ -610,6 +703,8 @@ Machine Learning with Graphs, Leskovec
 [Index of /class/cs224w-videos-2019  <br>
 snap.stanford.edu](http://snap.stanford.edu/class/cs224w-videos-2019/)
 ​
+___
+
 
 [China has started a grand experiment in AI education. It could reshape how the world learns.  <br>
 Zhou Yi was terrible at math. He risked never getting into college. Then a company called Squirrel AI came to his middle school in Hangzhou, China, promising personalized tutoring.  <br>
@@ -652,26 +747,36 @@ www-technologyreview-com.cdn.ampproject.org](https://www-technologyreview-com.cd
 Posted by Valentin Bazarevsky and Ivan Grishchenko, Research Engineers, Google Research    Pose estimation from video plays a critical role ...  <br>
 ai.googleblog.com](https://ai.googleblog.com/2020/08/on-device-real-time-body-pose-tracking.html)
 ​
+___
+
 
 [Slideio: a new python library for reading medical images.  <br>
 This is an introduction to a new python library for the reading of medical images. More detailed information can be found on the project…  <br>
 towardsdatascience.com](https://towardsdatascience.com/slideio-a-new-python-library-for-reading-medical-images-11858a522059)
 ​
+___
+
 
 [Keras documentation: CycleGAN  <br>
 Keras documentation  <br>
 keras.io](https://keras.io/examples/generative/cyclegan/)
 ​
+___
+
 
 [Text Generation with Bi-LSTM in PyTorch  <br>
 A step-by-step guide to developing a text generation model by using PyTorch’s LSTMCells to create a Bi-LSTM model from scratch  <br>
 towardsdatascience.com](https://towardsdatascience.com/text-generation-with-bi-lstm-in-pytorch-5fda6e7cc22c)
 ​
+___
+
 
 [Amazon's Machine Learning University is making its online courses available to the public  <br>
 Classes previously only available to Amazon employees will now be available to the community.  <br>
 www.amazon.science](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
 ​
+<br>
+
 MLSS Indo 2020 - Lecture 1 - Machine Learning Basics
 [![IMAGE_ALT](https://img.youtube.com/vi/FrbWQDdGpHQ/0.jpg)](https://youtu.be/FrbWQDdGpHQ)
 ​
@@ -696,30 +801,37 @@ MLSS-Indo 2020 - Lecture 3 - Advanced Topics in Equivariance and Inductive Biase
 In the process of creating the largest language AI system, OpenAI has gradually morphed from a nonprofit AI lab to a company that sells AI services.  <br>
 bdtechtalks.com](https://bdtechtalks.com/2020/08/17/openai-gpt-3-commercial-ai/amp/)
 ​
+___
+
 
 [HenriquesLab/ZeroCostDL4Mic  <br>
 ZeroCostDL4Mic: A Google Colab based no-cost toolbox to explore Deep-Learning in Microscopy - HenriquesLab/ZeroCostDL4Mic  <br>
 github.com](https://github.com/HenriquesLab/ZeroCostDL4Mic)
 ​
+___
+
 
 [HenriquesLab/ZeroCostDL4Mic  <br>
 ZeroCostDL4Mic: A Google Colab based no-cost toolbox to explore Deep-Learning in Microscopy - HenriquesLab/ZeroCostDL4Mic  <br>
 github.com](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki#contributors)
 ​
+___
+
 
 [ZeroCostDL4Mic: an open platform to use Deep-Learning in Microscopy  <br>
 The resources and expertise needed to use Deep Learning (DL) in bioimaging remain significant barriers for most laboratories.  <br>
 www.biorxiv.org](https://www.biorxiv.org/content/10.1101/2020.03.20.000133v3)
 ​
 
-​
+___
 
-​
 
 [Too many AI researchers think real-world problems are not relevant  <br>
 Any researcher who’s focused on applying machine learning to real-world problems has likely received a response like this one  <br>
 www.technologyreview.com](https://www.technologyreview.com/2020/08/18/1007196/ai-research-machine-learning-applications-problems-opinion/?utm_medium=tr_social&utm_campaign=site_visitor.unpaid.engagement&utm_source=LinkedIn#Echobox=1597721504)
 ​
+___
+
 
 [OCR with Keras, TensorFlow, and Deep Learning - PyImageSearch  <br>
 In this tutorial, you will learn how to train an Optical Character Recognition (OCR) model using Keras, TensorFlow, and Deep Learning.  <br>
@@ -735,31 +847,42 @@ The Laplace Transform: A Generalized Fourier Transform
 Less stuck in the machine thanks to AI.  <br>
 www.theverge.com​](https://www.theverge.com/2020/8/18/21373335/faster-mri-scans-ai-machine-learning-facebook-nyu-research-clinical-study)
 
+___
+
+
 [Microsoft leads $16M round into AI data science startup Pachyderm  <br>
 Microsoft leads $16M round into AI data science startup Pachyderm - SiliconANGLE  <br>
 siliconangle.com](https://siliconangle.com/2020/08/19/microsoft-leads-16m-round-ai-data-science-startup-pachyderm/)
 ​
+___
+
 
 [abhimishra91/insight  <br>
 Repository for Project Insight: NLP as a Service. Contribute to abhimishra91/insight development by creating an account on GitHub.  <br>
 github.com](https://github.com/abhimishra91/insight)
 ​
+___
+
 
 [DevashishPrasad/CascadeTabNet  <br>
 This repository contains the code and implementation details of the CascadeTabNet paper &amp;quot;CascadeTabNet: An approach for end to end table detection and structure recognition from image-base...  <br>
 github.com](https://github.com/DevashishPrasad/CascadeTabNet)
 ​
-
+___
  
 
 [CVPR2020 Workshop on Text and Documents in the Deep Learning Era  <br>
 Visit the post for more.  <br>
 cvpr2020text.wordpress.com](https://cvpr2020text.wordpress.com/)
 ​
+___
+
 
 [Google Colaboratory  <br>
 colab.research.google.com](https://colab.research.google.com/drive/1lzjbBQsF4X2C2WZhxBJz0wFEQor7F-fv?usp=sharing)
 ​
+___
+
 
 [linkedin/detext  <br>
 DeText: A Deep Neural Text Understanding Framework for Ranking and Classification Tasks  - linkedin/detext  <br>
@@ -769,11 +892,15 @@ github.com](https://github.com/linkedin/detext)
 [https://dl.acm.org/doi/10.1145/3331184.3331381  <br>
 dl.acm.org](https://dl.acm.org/doi/10.1145/3331184.3331381)
 ​
+___
+
 
 [The Ultimate guide to AI, Data Science &amp; Machine Learning, Articles, Cheatsheets and Tutorials ALL in one place  <br>
 Last updated 6/5/2019 This is a carefully curated compendium of articles &amp; tutorials covering all things AI, Data Science &amp; Machine Learning for the beginner to advanced practitioner.  <br>
 www.linkedin.com](https://www.linkedin.com/pulse/all-cheatsheets-one-place-vipul-patel/)
 ​
+___
+
 
 [https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf  <br>
 citeseerx.ist.psu.edu](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf)
@@ -813,11 +940,15 @@ Credit: Allen B. Downey
 To celebrate the release of fast.ai's new course, book, and software libraries on August 21st, we're making available the foreword that Soumith Chintala (the co-creator of PyTorch) wrote for the book  <br>
 www.fast.ai](https://www.fast.ai/2020/08/20/soumith-forward/)
 ​
+___
+
 
 [fastai/fastbook  <br>
 The fastai book, published as Jupyter Notebooks. Contribute to fastai/fastbook development by creating an account on GitHub.  <br>
 github.com](https://github.com/fastai/fastbook/blob/master/01_intro.ipynb)
 ​
+___
+
 
 [fastai/fastbook  <br>
 The fastai book, published as Jupyter Notebooks. Contribute to fastai/fastbook development by creating an account on GitHub.  <br>
@@ -827,33 +958,39 @@ github.com](https://github.com/fastai/fastbook)
 **XGBoost Tutorials:** 
 
 ​<https://lnkd.in/g3dSRxz> 
-1-Introduction to Boosted Trees 
-2-Distributed XGBoost with AWS YARN 
-3-Distributed XGBoost with XGBoost4J-Spark 
-4-DART booster 
-5-Monotonic Constraints 
-6-Random Forests in XGBoost 
-7-Feature Interaction Constraints 
-8-Text Input Format of DMatrix 
-9-Notes on Parameter Tuning 
-10-Using XGBoost External Memory Version (beta)
+1-Introduction to Boosted Trees  <br>
+2-Distributed XGBoost with AWS YARN  <br>
+3-Distributed XGBoost with XGBoost4J-Spark  <br>
+4-DART booster  <br>
+5-Monotonic Constraints  <br>
+6-Random Forests in XGBoost  <br>
+7-Feature Interaction Constraints  <br>
+8-Text Input Format of DMatrix  <br>
+9-Notes on Parameter Tuning  <br>
+10-Using XGBoost External Memory Version (beta) <br>
 
 [XGBoost Algorithm | XGBoost In Machine Learning  <br>
 XGBoost has quickly become a popular machine learning technique, and a major differentiator in ML hackathons. In this article learn the math that powers it.  <br>
 www.analyticsvidhya.com](https://www.analyticsvidhya.com/blog/2018/09/an-end-to-end-guide-to-understand-the-math-behind-xgboost/)
 ​
+___
+
 
 [CatBoost vs. Light GBM vs. XGBoost - KDnuggets  <br>
 Who is going to win this war of predictions and on what cost? Let’s explore.  <br>
 www.kdnuggets.com](https://www.kdnuggets.com/2018/03/catboost-vs-light-gbm-vs-xgboost.html)
 ​
+___
+
 
 [rakesh4real/realtime-forex-api  <br>
 Contribute to rakesh4real/realtime-forex-api development by creating an account on GitHub.  <br>
 github.com](https://github.com/rakesh4real/realtime-forex-api)
-​
+
+___​
 
 ​<https://github.com/rakesh4real/fastapi-template>
+
 <https://realtime-forex.herokuapp.com/​>
 
 ​
@@ -864,6 +1001,8 @@ github.com](https://github.com/rakesh4real/realtime-forex-api)
 [https://www.python-machinelearning.com](https://www.python-machinelearning.com/)
 
 [​https://guide.allennlp.org/overview​](​https://guide.allennlp.org/overview)
+
+
 
 [DevashishPrasad/CascadeTabNet  <br>
 This repository contains the code and implementation details of the CascadeTabNet paper &amp;quot;CascadeTabNet: An approach for end to end table detection and structure recognition from image-base...  <br>
