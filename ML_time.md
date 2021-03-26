@@ -4,7 +4,8 @@
 [Improving the Aftermath Management of an Earthquake | Omdena  <br>
 From a broad problem statement to a functional AI prototype in only two months to unite families in the aftermath of an earthquake.  <br>
 omdena.com](https://omdena.com/projects/ai-earthquake/)
-​
+
+​<br>
 ___
 
 ### Happy Valentine's Day from MATLAB ❤️ Code ⬇️
@@ -110,7 +111,8 @@ ___
 Yann LeCun’s Deep Learning Course — Deep Learning DS-GA 1008 — has been made *Free and Now Fully Available Online!!  The course is led by Yann LeCun himself... 20 comments on LinkedIn  <br>
 www.linkedin.com](https://www.linkedin.com/posts/imarpit_datascience-ml-machinelearning-activity-6765103006779260928-Z4t-)
 
-​
+<br>
+
 ___
 
 
@@ -174,6 +176,8 @@ ___
 Pandas vs. dplyr It’s difficult to find the ultimate go-to library for data analysis. Both R and Python provide excellent options, so the question quickly becomes “which data analysis library is the most convenient”. Today’s article aims to answer this question, assuming you’re equally skilled in both ...  <br>
 www.linkedin.com](https://www.r-bloggers.com/2021/02/pythons-pandas-vs-rs-dplyr-which-is-the-best-data-analysis-library/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+RBloggers+%28R+bloggers%29)
 ​
+<br>
+
 ___
 
 
@@ -182,6 +186,8 @@ ___
 Here are top ten Kaggle Notebooks a data science enthusiast must know.  <br>
 analyticsindiamag.com](https://www.r-bloggers.com/2021/02/pythons-pandas-vs-rs-dplyr-which-is-the-best-data-analysis-library/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+RBloggers+%28R+bloggers%29)
 ​
+<br>
+
 ___
 
 
@@ -266,13 +272,14 @@ www.linkedin.com](https://www.linkedin.com/posts/hamzatahirofficial_ebhybudgetml
 ![](ML_time_images/MachineLearningAlgorithms.png)
 
 ​
-___
 
 
 [A Comprehensive guide to Fine-tuning Deep Learning Models in Keras (Part II) | Felix Yu  <br>
 This is Part II of a 2 part series that cover fine-tuning deep learning models in Keras. Part I states the motivation and rationale behind fine-tuning and gi...  <br>
 flyyufelix.github.io](https://flyyufelix.github.io/2016/10/08/fine-tuning-in-keras-part2.html)
 ​
+<br>
+
 ___
 
 
@@ -280,6 +287,8 @@ ___
 (Click to enlarge) Welcome to the now “annual” Canadian AI Ecosystem Map. What a year it’s been. Read the full report The report also goes to feed the excellent (and searchable!) directory at Canada.ai.  <br>
 jfgagne.ai](https://jfgagne.ai/blog/the-canadian-ai-ecosystem-in-2018/)
 ​
+<br>
+
 ___
 
 
@@ -295,6 +304,8 @@ jfgagne.ai](https://jfgagne.ai/canadian-ai-ecosystem-2018-en/)
 [https://towardsdatascience.com/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679  <br>
 towardsdatascience.com](https://medium.com/@calebkaiser/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679)
 ​
+<br>
+
 ___
 
 
@@ -302,6 +313,8 @@ ___
 Deploy a Machine Learning Model ( ML in Production)  Flask is currently the de facto choice for writing these APIs for a couple of reasons:  Flask is minimal... 40 comments on LinkedIn  <br>
 www.linkedin.com](https://www.linkedin.com/posts/stevenouri_artificialintelligence-datascience-deeplearning-activity-6678195852944781312-eLkq/)
 ​
+<br>
+
 ___
 
 
@@ -309,6 +322,8 @@ ___
 Scikit-learn is an intuitive and powerful Python machine learning library that makes training and validating many models fairly easy…  <br>
 towardsdatascience.com](https://towardsdatascience.com/a-flask-api-for-serving-scikit-learn-models-c8bcdaa41daa)
 ​
+<br>
+
 ___
 
 
@@ -316,6 +331,8 @@ ___
 Modeling Global and Local Node Contexts for Text Generation from Knowledge Graphs • Recent graph-to-text models generate text from graph-based data using...  <br>
 www.linkedin.com](https://www.linkedin.com/posts/activity-6681140779710214144-vUa8/)
 ​
+<br>
+
 ___
 
 
@@ -323,6 +340,8 @@ ___
 Recent graph-to-text models generate text from graph-based data using either global or local aggregation to learn node representations. Global node encoding allows explicit communication between...  <br>
 arxiv.org](https://arxiv.org/abs/2001.11003)
 ​
+<br>
+
 ___
 
 
@@ -348,6 +367,8 @@ ___
 Coding and financial literacy will now be required learning for elementary school students in Ontario.  <br>
 amp-cnn-com.cdn.ampproject.org](https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/06/23/americas/ontario-math-curiculum-trnd/index.html)
 ​
+<br>
+
 ___
 
 
@@ -355,6 +376,8 @@ ___
 This is part of a series of articles on NLP for Tamil. Please find the first one here.  <br>
 medium.com](https://medium.com/analytics-vidhya/morphological-processing-for-%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D-the-unsupervised-way-68afebc388c4)
 ​
+<br>
+
 ___
 
 
@@ -372,6 +395,8 @@ pytorch.org](https://pytorch.org/get-started/locally/)
 Contribute to ChoudharyChanchal/game_control development by creating an account on GitHub.  <br>
 github.com](https://github.com/ChoudharyChanchal/game_control)
 ​
+<br>
+
 ___
 
 
@@ -379,6 +404,8 @@ ___
 In this tutorial, you will learn how to build an R-CNN object detector using Keras, TensorFlow, and Deep Learning.  <br>
 www.pyimagesearch.com](https://www.pyimagesearch.com/2020/07/13/r-cnn-object-detection-with-keras-tensorflow-and-deep-learning/)
 ​
+<br>
+
 ___
 
 
@@ -386,6 +413,8 @@ ___
 A tutorial on the main types of neural networks and its applications to real-world challenges.  <br>
 medium.com](https://pub.towardsai.net/main-types-of-neural-networks-and-its-applications-tutorial-734480d7ec8e)
 ​
+<br>
+
 ___
 
 
@@ -518,6 +547,8 @@ ___
 RBC has developed its own cloud-based artificial intelligence computing platform upon which to create and maintain AI-powered banking applications.  <br>
 betakit.com](https://betakit.com/royal-bank-of-canada-borealis-ai-partner-with-red-hat-nvidia-on-new-ai-computing-platform/)
 ​
+<br>
+
 ___
 
 
@@ -525,6 +556,8 @@ ___
 Contribute to adityamhatre/GameCarControl-CV development by creating an account on GitHub.  <br>
 github.com](https://github.com/adityamhatre/GameCarControl-CV)
 ​
+<br>
+
 ___
 
 
@@ -532,18 +565,25 @@ ___
 This is an OpenCV project that uses computer vision to detect contours and filters out the blue color on the steering wheel  <br>
 medium.com](https://medium.com/@aditya.r.mhatre/car-controller-for-games-using-opencv-1ba821d5fe4b)
 ​
+<br>
+
 ___
 ​
 
 [Gallery — pydeck 0.6.1 documentation  <br>
 pydeck.gl](https://pydeck.gl/)
+
+<br>
 ​
 ___
+
 
 [dheerajiiitv/T5-paraphrase-generation  <br>
 Contribute to dheerajiiitv/T5-paraphrase-generation development by creating an account on GitHub.  <br>
 github.com](https://github.com/dheerajiiitv/T5-paraphrase-generation)
 ​
+<br>
+
 ___
 
 
@@ -573,6 +613,8 @@ ___
 Learn the exact process I use when contributing to an open source project on GitHub. Follow this detailed visual guide to make your first contribution TODAY!  <br>
 www.dataschool.io](https://www.dataschool.io/how-to-contribute-on-github/)
 ​
+<br>
+
 ___
 
 
@@ -580,12 +622,16 @@ ___
 Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more. - tiangolo/full-stack-fastapi-postgresql  <br>
 github.com](https://github.com/tiangolo/full-stack-fastapi-postgresql)
 ​
+<br>
+
 ___
 
 
 [Launch Your Career in Data Science  <br>
 elitedatascience.com](https://elitedatascience.com/)
 ​
+<br>
+
 ___
 
 
@@ -615,6 +661,8 @@ ___
 [Natural Language Toolkit for Indic Languages — iNLTK latest documentation  <br>
 inltk.readthedocs.io](https://inltk.readthedocs.io/en/latest/)
 ​
+<br>
+
 ___
 
 
@@ -622,6 +670,8 @@ ___
 Deep neural network to extract intelligent information from invoice documents. - naiveHobo/InvoiceNet  <br>
 github.com](https://github.com/naiveHobo/InvoiceNet)
 ​
+<br>
+
 ___
 
 
@@ -629,6 +679,8 @@ ___
 Introduction Drawback of Batch Normalization Introduction to Group Normalization Other Normalization Techniques Group Normalization in detail and comparison to other  <br>
 amaarora.github.io](https://amaarora.github.io/2020/08/09/groupnorm.html#group-normalization-explained)
 ​
+<br>
+
 ___
 
 
@@ -636,6 +688,7 @@ ___
 It's Monday and as promised, I am back with another blog post - this time on "Group Normalization".   While BatchNorm is used in most SOTA algorithms, ...  <br>
 www.linkedin.com](https://www.linkedin.com/posts/aroraaman_group-normalization-activity-6698343876433985536-Jadk/)
 ​
+<br>
 ___
 
 
@@ -643,12 +696,16 @@ ___
 Developed by Uber AI Labs, Generative Teaching Networks (GTNs) automatically generate training data, learning environments, and curricula to help AI agents rapidly learn.  <br>
 eng.uber.com](https://eng.uber.com/generative-teaching-networks/)
 ​
+<br>
+
 ___
 
 
 [Getting started in NLP/ML | Victor Zhong  <br>
 www.victorzhong.com](https://www.victorzhong.com/blog/getting-started-in-NLP-ML-research.html)
 ​
+<br>
+
 ___
 
 
@@ -656,12 +713,16 @@ ___
 STUMPY is a powerful and scalable Python library for computing a Matrix Profile, which can be used for a variety of time series data mining tasks - TDAmeritrade/stumpy  <br>
 github.com](https://github.com/TDAmeritrade/stumpy)
 ​
+<br>
+
 ___
 
 
 [STUMPY documentation — stumpy 1.8.0 documentation  <br>
 stumpy.readthedocs.io](https://stumpy.readthedocs.io/en/latest/)
 ​
+<br>
+
 ___
 
 
@@ -669,6 +730,8 @@ ___
 A Powerful and Scalable Python Library for Modern Time Series Analysis  <br>
 seanmylaw.medium.com](https://seanmylaw.medium.com/stumpy-fdb9f8f1f261)
 ​
+<br>
+
 ___
 ​
 
@@ -703,6 +766,8 @@ Machine Learning with Graphs, Leskovec
 [Index of /class/cs224w-videos-2019  <br>
 snap.stanford.edu](http://snap.stanford.edu/class/cs224w-videos-2019/)
 ​
+<br>
+
 ___
 
 
@@ -754,6 +819,8 @@ ___
 This is an introduction to a new python library for the reading of medical images. More detailed information can be found on the project…  <br>
 towardsdatascience.com](https://towardsdatascience.com/slideio-a-new-python-library-for-reading-medical-images-11858a522059)
 ​
+<br>
+
 ___
 
 
@@ -761,6 +828,8 @@ ___
 Keras documentation  <br>
 keras.io](https://keras.io/examples/generative/cyclegan/)
 ​
+<br>
+
 ___
 
 
@@ -768,6 +837,8 @@ ___
 A step-by-step guide to developing a text generation model by using PyTorch’s LSTMCells to create a Bi-LSTM model from scratch  <br>
 towardsdatascience.com](https://towardsdatascience.com/text-generation-with-bi-lstm-in-pytorch-5fda6e7cc22c)
 ​
+<br>
+
 ___
 
 
@@ -778,16 +849,25 @@ www.amazon.science](https://www.amazon.science/latest-news/machine-learning-cour
 <br>
 
 MLSS Indo 2020 - Lecture 1 - Machine Learning Basics
+
+<br>
+
 [![IMAGE_ALT](https://img.youtube.com/vi/FrbWQDdGpHQ/0.jpg)](https://youtu.be/FrbWQDdGpHQ)
 ​
 <br>
 
 MLSS-Indo 2020 - Lecture 2 - Deep Learning Fundamentals
+
+<br>
+
 [![IMAGE_ALT](https://img.youtube.com/vi/K59cmobQKew/0.jpg)](https://youtu.be/K59cmobQKew)
 ​
 <br>
 
 MLSS-Indo 2020 - Lecture 3 - Advanced Topics in Equivariance and Inductive Biases
+
+<br>
+
 [![IMAGE_ALT](https://img.youtube.com/vi/HPU--yAGIBQ/0.jpg)](https://youtu.be/HPU--yAGIBQ)
 ​
 
@@ -801,6 +881,8 @@ MLSS-Indo 2020 - Lecture 3 - Advanced Topics in Equivariance and Inductive Biase
 In the process of creating the largest language AI system, OpenAI has gradually morphed from a nonprofit AI lab to a company that sells AI services.  <br>
 bdtechtalks.com](https://bdtechtalks.com/2020/08/17/openai-gpt-3-commercial-ai/amp/)
 ​
+<br>
+
 ___
 
 
@@ -808,6 +890,8 @@ ___
 ZeroCostDL4Mic: A Google Colab based no-cost toolbox to explore Deep-Learning in Microscopy - HenriquesLab/ZeroCostDL4Mic  <br>
 github.com](https://github.com/HenriquesLab/ZeroCostDL4Mic)
 ​
+<br>
+
 ___
 
 
@@ -815,6 +899,8 @@ ___
 ZeroCostDL4Mic: A Google Colab based no-cost toolbox to explore Deep-Learning in Microscopy - HenriquesLab/ZeroCostDL4Mic  <br>
 github.com](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki#contributors)
 ​
+<br>
+
 ___
 
 
@@ -830,6 +916,8 @@ ___
 Any researcher who’s focused on applying machine learning to real-world problems has likely received a response like this one  <br>
 www.technologyreview.com](https://www.technologyreview.com/2020/08/18/1007196/ai-research-machine-learning-applications-problems-opinion/?utm_medium=tr_social&utm_campaign=site_visitor.unpaid.engagement&utm_source=LinkedIn#Echobox=1597721504)
 ​
+<br>
+
 ___
 
 
@@ -854,6 +942,8 @@ ___
 Microsoft leads $16M round into AI data science startup Pachyderm - SiliconANGLE  <br>
 siliconangle.com](https://siliconangle.com/2020/08/19/microsoft-leads-16m-round-ai-data-science-startup-pachyderm/)
 ​
+<br>
+
 ___
 
 
@@ -861,6 +951,8 @@ ___
 Repository for Project Insight: NLP as a Service. Contribute to abhimishra91/insight development by creating an account on GitHub.  <br>
 github.com](https://github.com/abhimishra91/insight)
 ​
+<br>
+
 ___
 
 
@@ -868,6 +960,8 @@ ___
 This repository contains the code and implementation details of the CascadeTabNet paper &amp;quot;CascadeTabNet: An approach for end to end table detection and structure recognition from image-base...  <br>
 github.com](https://github.com/DevashishPrasad/CascadeTabNet)
 ​
+<br>
+
 ___
  
 
@@ -875,12 +969,16 @@ ___
 Visit the post for more.  <br>
 cvpr2020text.wordpress.com](https://cvpr2020text.wordpress.com/)
 ​
+<br>
+
 ___
 
 
 [Google Colaboratory  <br>
 colab.research.google.com](https://colab.research.google.com/drive/1lzjbBQsF4X2C2WZhxBJz0wFEQor7F-fv?usp=sharing)
 ​
+<br>
+
 ___
 
 
@@ -888,10 +986,16 @@ ___
 DeText: A Deep Neural Text Understanding Framework for Ranking and Classification Tasks  - linkedin/detext  <br>
 github.com](https://github.com/linkedin/detext)
 ​
+<br>
+
+___
+
 
 [https://dl.acm.org/doi/10.1145/3331184.3331381  <br>
 dl.acm.org](https://dl.acm.org/doi/10.1145/3331184.3331381)
 ​
+<br>
+
 ___
 
 
@@ -899,6 +1003,8 @@ ___
 Last updated 6/5/2019 This is a carefully curated compendium of articles &amp; tutorials covering all things AI, Data Science &amp; Machine Learning for the beginner to advanced practitioner.  <br>
 www.linkedin.com](https://www.linkedin.com/pulse/all-cheatsheets-one-place-vipul-patel/)
 ​
+<br>
+
 ___
 
 
@@ -940,6 +1046,8 @@ Credit: Allen B. Downey
 To celebrate the release of fast.ai's new course, book, and software libraries on August 21st, we're making available the foreword that Soumith Chintala (the co-creator of PyTorch) wrote for the book  <br>
 www.fast.ai](https://www.fast.ai/2020/08/20/soumith-forward/)
 ​
+<br>
+
 ___
 
 
@@ -947,6 +1055,8 @@ ___
 The fastai book, published as Jupyter Notebooks. Contribute to fastai/fastbook development by creating an account on GitHub.  <br>
 github.com](https://github.com/fastai/fastbook/blob/master/01_intro.ipynb)
 ​
+<br>
+
 ___
 
 
@@ -973,6 +1083,8 @@ github.com](https://github.com/fastai/fastbook)
 XGBoost has quickly become a popular machine learning technique, and a major differentiator in ML hackathons. In this article learn the math that powers it.  <br>
 www.analyticsvidhya.com](https://www.analyticsvidhya.com/blog/2018/09/an-end-to-end-guide-to-understand-the-math-behind-xgboost/)
 ​
+<br>
+
 ___
 
 
@@ -980,6 +1092,8 @@ ___
 Who is going to win this war of predictions and on what cost? Let’s explore.  <br>
 www.kdnuggets.com](https://www.kdnuggets.com/2018/03/catboost-vs-light-gbm-vs-xgboost.html)
 ​
+<br>
+
 ___
 
 
