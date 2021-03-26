@@ -21,9 +21,9 @@ websitesetup.org](https://websitesetup.org/javascript-cheat-sheet/)
 JavaScript is one of the most popular programming languages in the world.  I believe it's a great choice for your first programming language ever.  <br>
 www.freecodecamp.org](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/)
 ​
+<br>
 
-
-[https://pepa.holla.cz/wp-content/uploads/2015/11/JavaScript-for-Kids.pdf
+[https://pepa.holla.cz/wp-content/uploads/2015/11/JavaScript-for-Kids.pdf  <br>
 pepa.holla.cz](https://pepa.holla.cz/wp-content/uploads/2015/11/JavaScript-for-Kids.pdf)
 
 <center>Javascript for Kids</center>
