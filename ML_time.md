@@ -6,6 +6,7 @@ From a broad problem statement to a functional AI prototype in only two months t
 omdena.com](https://omdena.com/projects/ai-earthquake/)
 
 ​<br>
+
 ___
 
 
@@ -575,10 +576,11 @@ ___
 pydeck.gl](https://pydeck.gl/)
 
 <br>
-​
-___
+
+​___
 
 
+<br>
 
 [dheerajiiitv/T5-paraphrase-generation  <br>
 Contribute to dheerajiiitv/T5-paraphrase-generation development by creating an account on GitHub.  <br>
@@ -691,6 +693,7 @@ It's Monday and as promised, I am back with another blog post - this time on "Gr
 www.linkedin.com](https://www.linkedin.com/posts/aroraaman_group-normalization-activity-6698343876433985536-Jadk/)
 ​
 <br>
+
 ___
 
 
