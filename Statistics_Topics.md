@@ -1,6 +1,6 @@
 # Statistics Topics
 ​
-```{r, attr.source='.numberLines'}
+```
 Introduction to Statistics
 ​
 Descriptive vs. Inferential Statistics
