@@ -2,17 +2,7 @@
 
 ### Season 1: Dec 2022
 
-Original price: 
-<br>
-200$CAD/month
 
-After Discount:
-<br>
-30$CAD/month
-
-Seats available:
-<br>
-20 Max (for Season 1)
 
 #### Hybrid classes:
 - 80% recorded classes
@@ -27,6 +17,18 @@ Seats available:
 #### Assignment Rooms:
 - You can join our Assignments rooms anytime you like by connecting our Zoom link
 - You can pick any Breakout room to stay alone or with your peers to work on your assignments
+
+#### Original price: 
+<br>
+200$CAD/month
+
+#### After Discount:
+<br>
+30$CAD/month
+
+#### Seats available:
+<br>
+20 Max (for Season 1)
 
 #### More info:
 - Join our weekly Orientation event:
