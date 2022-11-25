@@ -1,35 +1,38 @@
 # Python on Mac Course
 
 
-Season 1:
-```
-Original price: 3000 INR/month
-After Discount: 500 INR/month
+### Season 1:
 
-Seats available: 20 Max (for Season 1)
+Original price: 
+<br>
+3000 INR/month
+
+After Discount:
+<br>
+500 INR/month
+
+Seats available:
+<br>
+20 Max (for Season 1)
 
 Hybrid classes:
-  80% recorded classes
-  20% online class with mentors
+- 80% recorded classes
+- 20% online class with mentors
 
 Python Weekly Battle:
-  Every Saturday we will conduct a battle on Python (or any other tech topic) with Featurepreneur Gamified standards and pick the winner from the game.
-  
-  Weekly winner can keep the Macbook for one week (with free rental). We will give a MacBook for you to learn coding on Macbook for one week.
-
-  In order to keep the Mac, you need to win the weekly battle and also you need maintain the LA Score (Learning Analytics).
+- Every Saturday we will conduct a battle on Python (or any other tech topic) with Featurepreneur Gamified standards and pick the winner from the game. 
+- Weekly winner can keep the Macbook for one week (with free rental). We will give a MacBook for you to learn coding on Macbook for one week.
+- In order to keep the Mac, you need to win the weekly battle and also you need maintain the LA Score (Learning Analytics).
 
 More info:
-  Join our weekly Orientation event
-
+- Join our weekly Orientation event:
+  <br>
   7pm IST / 8.30 pm EST 
+  <br>
   https://us02web.zoom.us/j/6476476400
 
 
-```
-
-Application Form:
-<br>
+### Application Form:
 https://bit.ly/pyonmac-s1
 
 <br><br>
