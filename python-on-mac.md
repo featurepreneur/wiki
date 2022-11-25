@@ -29,7 +29,7 @@ More info:
   <br>
   7pm IST / 8.30 pm EST 
   <br>
-  https://us02web.zoom.us/j/6476476400
+  [Weekly Orientation Zoom Link](https://us02web.zoom.us/j/6476476400)
 
 
 ### Application Form:
