@@ -1,6 +1,6 @@
 # Python on Mac: 
 
-### Season 1:
+### Season 1: Dec 2022
 
 Original price: 
 <br>
