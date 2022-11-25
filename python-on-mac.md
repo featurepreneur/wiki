@@ -30,7 +30,7 @@
 #### More info:
 - Join our weekly Orientation event:
   <br>
-  7pm IST / 8.30 pm EST 
+  9pm IST / 10.30 am EST 
   <br>
   [Weekly Orientation Zoom Link](https://us02web.zoom.us/j/6476476400)
 
