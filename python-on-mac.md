@@ -35,6 +35,9 @@ More info:
 ### Application Form:
 [Season 1 Application Form](https://bit.ly/pyonmac-s1)
 
+or use QR
+![Speeofme](https://github.com/featurepreneur/wiki/blob/master/images/bit.ly_pyonmac-s1.png?raw=true)
+
 <br><br>
 
 ### Ref :
