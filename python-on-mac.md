@@ -33,7 +33,7 @@ More info:
 
 
 ### Application Form:
-https://bit.ly/pyonmac-s1
+[Season 1 Application Form](https://bit.ly/pyonmac-s1)
 
 <br><br>
 
