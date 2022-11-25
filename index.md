@@ -101,4 +101,8 @@ Not only you provide some requirements to this platform. Volunteers can come up 
   * [Zero Slides Policy](Zero_slides_policy.md)
   * [Random Challenge](Random_Challenge.md)
   * [Future Reference](Future_Reference.md)
+
+
+## Courses
+  * [Python on Mac](python-on-mac.md)
  
