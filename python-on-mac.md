@@ -34,7 +34,7 @@
   <br>
   [Weekly Orientation Zoom Link](https://us02web.zoom.us/j/6476476400)
 
-#### Eligible Locations for MacShift
+#### Eligible Locations for MacShift:
 - Toronto (Canada)
 - Oshawa (Canada)
 - Whitby (Canada)
