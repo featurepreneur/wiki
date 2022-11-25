@@ -4,11 +4,11 @@
 
 Original price: 
 <br>
-3000 INR/month
+200$CAD/month
 
 After Discount:
 <br>
-500 INR/month
+10$CAD/month
 
 Seats available:
 <br>
