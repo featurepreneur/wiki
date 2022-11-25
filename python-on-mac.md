@@ -12,7 +12,7 @@
 - Every Saturday we will conduct a battle on Python (or any other tech topic) with Featurepreneur Gamified standards and pick the winner from the game. 
 - Weekly winner can keep the Macbook for one week (with free rental). 
 - We will give a MacBook (2017 Used) for you to learn coding on Macbook for one week.
-- In order to keep the Mac, you need to win the weekly battle and also you need maintain the LA Score ([Learning Analytics](https://chrome.google.com/webstore/detail/learning-analytics/jghnmnbocllgpppgnafiipnjcanfgcdm)).
+- In order to keep the Mac, you need to win the weekly battle and also you need maintain above average LA Score ([Learning Analytics](https://chrome.google.com/webstore/detail/learning-analytics/jghnmnbocllgpppgnafiipnjcanfgcdm)) comparing your peers.
 
 #### Assignment Rooms:
 - You can join our Assignments rooms anytime you like by connecting our Zoom link
