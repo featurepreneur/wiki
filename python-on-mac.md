@@ -19,15 +19,12 @@
 - You can pick any Breakout room to stay alone or with your peers to work on your assignments
 
 #### Original price: 
-<br>
 200$CAD/month
 
 #### After Discount:
-<br>
 30$CAD/month
 
 #### Seats available:
-<br>
 20 Max (for Season 1)
 
 #### More info:
