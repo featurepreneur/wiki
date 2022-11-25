@@ -34,6 +34,11 @@
   <br>
   [Weekly Orientation Zoom Link](https://us02web.zoom.us/j/6476476400)
 
+#### Eligible Locations for MacShift
+- Toronto (Canada)
+- Oshawa (Canada)
+- Whitby (Canada)
+- Chennai (India)
 
 #### Application Form:
 [Season 1 Application Form](https://bit.ly/pyonmac-s1)
