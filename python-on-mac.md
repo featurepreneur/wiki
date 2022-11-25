@@ -8,7 +8,7 @@ Original price:
 
 After Discount:
 <br>
-10$CAD/month
+30$CAD/month
 
 Seats available:
 <br>
