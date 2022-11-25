@@ -25,10 +25,14 @@ More info:
   7pm IST / 8.30 pm EST 
   https://us02web.zoom.us/j/6476476400
 
-Application Form:
-  https://bit.ly/pyonmac-s1
+
 ```
 
-### Ref :
+Application Form:
+<br>
+https://bit.ly/pyonmac-s1
 
+<br><br>
+
+### Ref :
   * [Featurepreneur](https://featurepreneur.com/)
