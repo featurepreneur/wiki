@@ -5,8 +5,8 @@
 
 
 #### Hybrid classes:
-- 80% recorded classes
-- 20% online class with mentors
+- 70% recorded classes
+- 30% online class with mentors
 
 #### Python Weekly Battle:
 - Every Saturday we will conduct a battle on Python (or any other tech topic) with Featurepreneur Gamified standards and pick the winner from the game. 
